@@ -1,0 +1,17 @@
+A Machine Learning Approach for Identification of Thesis and Conclusion Statements in Student Essays
+Machine Learning Applications in Anthropology: Automated Discovery over Kinship Structures
+"PLATA: An Application of LEGAL, a Machine Learning Based System, to a Typology of Archaeological Ceramics"
+Machine Learning Theory and Practice as a Source of Insight into Universal Grammar
+"Book Review : 
+            Elements of Machine Learning
+            
+               Pat
+               Langley
+            
+"
+Combining Machine Learning and Semantic Features in the Classification of Corporate Disclosures
+No free lunch in linguistics or machine learning
+Applying data mining and machine learning techniques for sentiment shifter identification
+Evaluation of machine learning-based information extraction algorithms: criticisms and recommendations
+Filtering artificial texts with statistical machine learning techniques
+"Robust semantic text similarity using LSA, machine learning, and linguistic resources"

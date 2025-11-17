@@ -1,0 +1,12 @@
+"Computer Assisted Reading in German as a Foreign Language, Developing and Testing an NLP-based Application"
+Robo-Sensei's NLP-Based Error Detection and Feedback Generation
+The Pronominal Approach in NLP: A Pronominal Feature Analysis of Coordination in French
+Is Word Sense Disambiguation Just One More NLP Task?
+Language resources for Maghrebi Arabic dialects’ NLP
+Multilingual Resources for NLP in the Lexical Markup Framework (LME)
+An NLP Lexicon as a Largely Language-Independent Resource
+Augmenting Formal Semantic Representation for NLP: The Story of SMEARR
+"Implementing NLP Projects for Noncentral Languages: Instructions for Funding Bodies, Strategies for Developers"
+Introduction: Special Issue on Anaphora Resolution in Machine Translation and Multilingual NLP
+"Lexical Description for NLP: The Case of the French Adverb ""Presque"""
+Measuring particularity and similarity in Archaic Greek alphabets with NLP

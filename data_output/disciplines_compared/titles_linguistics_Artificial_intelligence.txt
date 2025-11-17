@@ -1,0 +1,99 @@
+Teachers and Artificial Intelligence: The Logo Connection
+ARTIFICIAL INTELLIGENCE SIG REPORT
+Artificial Intelligence and Computer-Assisted Language Instruction: A Perspective
+Artificial Intelligence in a German Adventure Game: Spion in PROLOG
+COMMUNICATIVE CALL WITH ARTIFICIAL INTELLIGENCE: SOME DESIDERATA
+The Ninth International Joint Conference on Artificial Intelligence
+An Application of Artificial Intelligence to the Choreography of Dance
+An Artificial Intelligence Approach to the Study of the Humanist Literary Movement in XIVth and XVth Century France
+Artificial Intelligence and the Humanities
+Artificial Intelligence in Speech Understanding: Two Applications at C.R.I.N.
+"Artificial Intelligence, History and Knowledge Representation"
+"Book Review : 
+            Artificial Intelligence
+            
+               E. B.
+               Hunt
+            
+"
+"Book Review : 
+            Artificial Intelligence and Natural Man
+            
+               Margaret A.
+               Boden
+            
+"
+"Book Review : 
+            Artificial Intelligence: An Introductory Course
+            
+               A.
+               Bundy
+            
+"
+"Book Review : 
+            Artificial Intelligence: The Very Idea
+            
+               John
+               Haugeland
+            
+"
+"Book Review : 
+            Computational Semantics: An Introduction to Artificial Intelligence and Natural Language Comprehension
+            
+               Eugene
+               Charniak
+            
+            
+               Yorick
+               Wilks
+            
+"
+"Book Review : 
+            Human and Artificial Intelligence
+            
+               F.
+               Klix
+            
+"
+"Book Review : 
+            The Artificial Intelligence Debate: False Starts, Real Foundations
+            
+               Stephen R.
+               Graubard
+            
+"
+"Book Review : 
+            The Metaphorical Brain: An Introduction to Cybernetics as Artificial Intelligence and Brain Theory
+            
+               Michael A.
+               Arbib
+            
+"
+Integrating Artificial Intelligence into Literary Research: An Invitation to Discuss Design Specifications
+Narrative Theories as Computational Models: Reader-Oriented Theory and Artificial Intelligence
+"Animals, Zombanimals, and the Total Turing Test: The Essence of Artificial Intelligence"
+Editorial: Alan Turing and Artificial Intelligence
+The Constructibility of Artificial Intelligence (As Defined by the Turing Test)
+"Book Review : 
+        Semantic Processing of Legal Texts: where the language of law meets the law of language (Lecture notes in computer science: lecture notes in artificial intelligence, Vol 6036)
+        
+          E.
+          Francesconi
+        
+        
+          S.
+          Montemagni
+        
+        
+          W.
+          Peters
+        
+        
+          D.
+          Tiscornia
+        
+"
+Book Review : Artificial Intelligence and Instruction: Applications and Methods
+Book Review : Formal Methods in Artificial Intelligence
+Book Review : Natural Language Generation in Artificial Intelligence and Computational Linguistics
+Book Review : The Foundations of Artificial Intelligence: A Sourcebook

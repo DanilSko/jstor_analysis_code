@@ -1,0 +1,170 @@
+An Effective Application of Natural Language Processing in Second Language Instruction
+BANZAI: An Application of Natural Language Processing to Web-based Language Learning
+Development and Evaluation of a Thai Learning System on the Web Using Natural Language Processing
+Neural Network Computing and Natural Language Processing
+"Book Review : 
+            Readings in Natural Language Processing
+            
+              Barbara J.
+              Grosz
+            
+            
+              Karen Sparck
+              Jones
+            
+            
+              Bonnie Lynn
+              Webber
+            
+"
+Integrating Discourse Pragmatics and Propositional Knowledge for Multilingual Natural Language Processing
+Software Design Issues for Natural Language Processing
+A Full and Efficient Machine Tractable Dictionary for Natural Language Processing: A Revised Version of the CUVOALD
+"Book Review : 
+            Natural Language Processing in Prolog: An Introduction to Computational Linguistics
+            
+               Gerald
+               Gazdar
+            
+            
+               Chris
+               Mellish
+            
+"
+COMLEX Syntax: A Large Syntactic Dictionary for Natural Language Processing
+"The ""New"" Logics and Natural Language Processing"
+The Use of Natural Language Processing in Computer-Assisted Language Instruction
+Using SGML as a Basis for Data-Intensive Natural Language Processing
+ISSUES AND TOPICS IN CHINESE NATURAL LANGUAGE PROCESSING / 綜述：漢語自然語言處理的重要論題
+Unnatural Language Processing: An Empirical Study of Multimodal Proof Styles
+"Book Review : 
+        Challenges in Natural Language Processing
+        
+          Madeleine
+          Bates
+        
+        
+          Ralph M.
+          Weischedel
+        
+"
+"Book Review : 
+        Lexical Functions in Lexicography and Natural Language Processing
+        
+          Leo
+          Wanner
+        
+"
+"Book Review : 
+        Natural Language Processing for Online Applications: Text Retrieval, Extraction
+              and Categorization
+        
+          Peter
+          Jackson
+        
+        Isabelle Moulinier
+"
+"Book Review : 
+        Subsymbolic Natural Language Processing: An Integrated Model of Scripts, Lexicon, and Memory
+        
+          Risto
+          Miikkulainen
+        
+"
+"Book Review : 
+        The handbook of computational linguistics and natural language processing. (Blackwell handbooks in linguistics)
+        
+          Alexander
+          Clark
+        
+        
+          Chris
+          Fox
+        
+        
+          Shalom
+          Lappin
+        
+"
+"Book Review : 
+        Natural Language Processing with Python, Analyzing Text with the Natural Language Toolkit
+        
+          Steven
+          Bird
+        
+        
+          Ewan
+          Klein
+        
+        
+          Edward
+          Loper
+        
+"
+"Book Review : 
+        Ontology and the Lexicon: a natural language processing perspective. (Studies in Natural Language Processing)
+        
+          Chu-Ren
+          Huang
+        
+        
+          Nicoletta
+          Calzolari
+        
+        
+          Aldo
+          Gangemi
+        
+        
+          Alessandro
+          Lenci
+        
+        
+          Alessandro
+          Oltramari
+        
+        
+          Laurent
+          Prévot
+        
+"
+Perspectives on crowdsourcing annotations for natural language processing
+Software requirements as an application domain for natural language processing
+Xigt: extensible interlinear glossed text for natural language processing
+An Applied Ontological Semantic Microtheory of Adjective Meaning for Natural Language Processing
+"Book Review : 
+        Bayesian analysis in natural language processing
+        
+          Shay
+          Cohen
+        
+"
+Book Review : Analogical Natural Language Processing
+Book Review : Applied Natural Language Processing
+Book Review : Connectionist Natural Language Processing: Readings from Connection Science
+Book Review : Evaluating Natural Language Processing Systems: An Analysis and Review
+Book Review : Graph-based natural language processing and information retrieval
+Book Review : Handbook of Natural Language Processing (second edition)
+Book Review : Handbook of Natural Language Processing and Machine Translation
+Book Review : Handbook of computational linguistics and natural language processing
+Book Review : Introduction to Arabic natural language processing (Synthesis lectures on human language technologies)
+Book Review : Introduction to Chinese natural language processing
+"Book Review : Knowledge Systems and Prolog: A Logical Approach to Expert Systems
+                            and Natural Language Processing"
+Book Review : Linguistic fundamentals for natural language processing: 100 essentials from morphology and syntax
+Book Review : Natural Language Processing in PROLOG: An Introduction to Computational Linguistics
+Book Review : Semi-Supervised Learning and Domain Adaptation in Natural Language Processing
+Book Review : Statistical natural language processing (second edition) «统计自然语言处理 (第2版)»
+Parameterizing and Eliciting Text Elements across Languages for Use in Natural Language Processing Systems
+The application of structured learning in natural language processing
+"Book Review : 
+        CONNECTIONIST APPROACHES TO NATURAL LANGUAGE PROCESSING
+        
+          Ronan G.
+          Reilly
+        
+        
+          Noel E.
+          Sharkey
+        
+"

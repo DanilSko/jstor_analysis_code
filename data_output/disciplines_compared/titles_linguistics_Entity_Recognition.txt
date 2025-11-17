@@ -1,0 +1,7 @@
+A Finnish news corpus for named entity recognition
+A real time Named Entity Recognition system for Arabic text mining
+A web-based Bengali news corpus for named entity recognition
+Fine-grained Dutch named entity recognition
+Product named entity recognition in Chinese text
+Combining rule-based and statistical mechanisms for low-resource named entity recognition
+Illinois CCG LoReHLT 2016 named entity recognition and situation frame systems

@@ -1,0 +1,390 @@
+"Book Review : 
+        Papers in Computational Linguistics
+        
+          Ferenc
+          Papp
+        
+        
+          György
+          Szépe
+        
+"
+COMPLEX REVISITED: REMARKS ON SOME BASIC ISSUES IN COMPUTATIONAL LEXICOGRAPHY/LEXICOLOGY
+COMPUTATIONAL LEXICOGRAPHY: A QUERY SYSTEM FOR TEXT CORPORA
+Corpora Processing and Computational Scaffolding for a Web-based English Learning Environment: The CANDLE Project
+"Book Review : 
+            Computational Models of Discourse
+            
+              Michael
+              Brady
+            
+            
+              Robert C.
+              Berwick
+            
+"
+"Book Review : 
+            Natural Language Parsing. Psychological, Computational, and Theoretical Perspectives
+            
+              David
+              Dowty
+            
+            
+              Lauri
+              Kartunnen
+            
+            
+              Arnold
+              Zwicky
+            
+"
+Linguistic and Extra-Linguistic Knowledge: A Catalogue of Language-Related Rules and Their Computational Application in Machine Translation
+Unification and the Computational Analysis of Arabic
+"""Respice Finem"" and the ""Tantum Quantum"": An Essay Review of Computational Stylistics for 1967-1968"
+"Book Review : 
+            Computational Approaches to Language Acquisition
+            
+               Michael R.
+               Brent
+            
+"
+"Book Review : 
+            Computational Linguistics (Computerlinguistik): An International Handbook on Computer Oriented Language Research and Applications (Handbücher zur Sprach- und Kommunikationswissenschaft, Bd. 4)
+            
+               István S.
+               Bátori
+            
+            
+               Winfried
+               Lenders
+            
+            
+               Wolfgang
+               Putschke
+            
+"
+"Book Review : 
+            Computational Models of Discourse
+            
+               Michael
+               Brady
+            
+            
+               Robert C.
+               Berwick
+            
+"
+"Book Review : 
+            Computational Semantics: An Introduction to Artificial Intelligence and Natural Language Comprehension
+            
+               Eugene
+               Charniak
+            
+            
+               Yorick
+               Wilks
+            
+"
+"Book Review : 
+            Natural Language Processing in Prolog: An Introduction to Computational Linguistics
+            
+               Gerald
+               Gazdar
+            
+            
+               Chris
+               Mellish
+            
+"
+Computational Considerations for the Processing of Explanatory Literal Analogies and Expressive Metaphors
+Computational Lexicography
+Computational Linguistics and Statistics in the Analysis of the Montreal French Corpus
+Computational Linguistics and the Humanist
+Computational Linguistics and the Study of Linguistic Performance
+Computational Linguistics in Denmark: A Report on the Third AILA Congress
+Computational Musicology
+Current Approaches to Punctuation in Computational Linguistics
+Introducing Computational Techniques in Dialectometry
+Introduction: Common Methodologies in Humanities Computing and Computational Linguistics
+Narrative Theories as Computational Models: Reader-Oriented Theory and Artificial Intelligence
+On the Corpus Size Needed for Compiling a Comprehensive Computational Lexicon by Automatic Lexical Acquisition
+PC-Kimmo: A Computational Linguistic Tool for Humanities Applications
+Some Early Efforts in Computational Musicology
+The 1969 International Conference on Computational Linguistics: A Progress Report
+The Annual Meeting of the Association for Computational Linguistics
+"Book Review : 
+            Computational Linguistics III
+            
+              F.
+              Kiefer
+            
+"
+"Book Review : 
+        A Synchronic Phonology of Modern Colloquial Shanghai. Computational Analyses of Asian and African Languages Monograph #15
+        
+          Michael
+          Sherard
+        
+"
+"Book Review : 
+        Computational Analysis of Mandarin
+        
+          Ching Y.
+          Suen
+        
+"
+"Book Review : 
+        Proceedings of ROCLING II (R.O.C. Computational Linguistics Workshop)
+        
+          Chu-Ren
+          Huang
+        
+        
+          Keh-jiann
+          Chen
+        
+"
+"Book Review : 
+        The Teng-Xian Dialect of Chinese. Computational Analyses of Asian and African Languages Monograph #3
+        
+          Anne O.
+          Yue
+        
+"
+"Book Review : 
+        The Yilan Dialect of Chinese: A Classified Lexicon with Grammatical Notes. (In Japanese) Computational Analyses of Asian and African Languages Monograph #14
+        
+          Ching-han
+          Lan
+        
+"
+R.O.C. COMPUTATIONAL LINGUISTICS WORKSHOPS I
+R.O.C. Computational Linguistics Workshop II (ROCLING II)
+THE COMPUTATIONAL MODELS OF THE BEHAVIORTRAN ENGLISH-CHINESE MACHINE TRANSLATION SYSTEM / BehaviorTran 英中機譯系統之計算模式
+A Computational Model of Korean Morphological Analysis: A Prediction-Based Approach
+Book Review : Recursion: A computational investigation into the representation and processing of language (Oxford Studies in Biolinguistics)
+A Computational Treatment of Anaphora and Its Algorithmic Implementation
+A Modal Perspective on the Computational Complexity of Attribute Value Grammar
+"Book Review : 
+            Computational Approaches to Language Acquisition
+            
+               Michael R.
+               Brent
+            
+"
+"Book Review : 
+            Temporal Logic: Mathematical Foundations and Computational Aspects, Volume 2
+            
+               Dov M.
+               Gabbay
+            
+            
+               Mark A.
+               Reynolds
+            
+            
+               Marcelo
+               Finger
+            
+"
+"Computational Semantics in Discourse: Underspecification, Resolution, and Inference"
+Easy Solutions for a Hard Problem? The Computational Complexity of Reciprocals with Quantificational Antecedents
+Group Theory and Computational Linguistics
+Inference and Computational Semantics
+Put My Galakmid Coin into the Dispenser and Kick It: Computational Linguistics and Theorem Proving in a Computer Game
+Slavic Corpus and Computational Linguistics
+Association for Computational Linguistics
+"Book Review : 
+        Automaton theories of human sentence comprehension (CSLI studies in computational linguistics)
+        
+          John T.
+          Hale
+        
+"
+"Book Review : 
+        Computational Lexicology and Lexicography: Bibliography
+        
+          Conrad F.
+          Sabourin
+        
+"
+"Book Review : 
+        Computational Psycholinguistics: An Interdisciplinary Approach to the Study of Language
+        
+          Matthew W.
+          Crocker
+        
+"
+"Book Review : 
+        Computational approaches to morphology and syntax (Oxford surveys in syntax and morphology 4)
+        
+          Brian
+          Roark
+        
+        
+          Richard
+          Sproat
+        
+"
+"Book Review : 
+        Computational methods for corpus annotation and analysis
+        
+          Xiaofei
+          Lu
+        
+"
+"Book Review : 
+        Computational models of referring: A study in cognitive science
+        
+          Kees
+          van Deemter
+        
+"
+"Book Review : 
+        Exercises in Computational Linguistics
+        
+          H. Brandt
+          Corstius
+        
+"
+"Book Review : 
+        Linguistic and Computational Techniques in Machine Translation System Design
+        
+          Peter
+          Whitelock
+        
+        
+          Kieran
+          Kilby
+        
+"
+"Book Review : 
+        The Computational Analysis of English: A Corpus-Based Approach
+        
+          Roger
+          Garside
+        
+        
+          Geoffrey
+          Leech
+        
+        
+          Geoffrey
+          Sampson
+        
+"
+"Book Review : 
+        The handbook of computational linguistics and natural language processing. (Blackwell handbooks in linguistics)
+        
+          Alexander
+          Clark
+        
+        
+          Chris
+          Fox
+        
+        
+          Shalom
+          Lappin
+        
+"
+COMPUTATIONAL PHYLOGENETICS AND THE INTERNAL STRUCTURE OF PAMA-NYUNGAN
+CONSPIRING TO MEAN: EXPERIMENTAL AND COMPUTATIONAL EVIDENCE FOR A USAGE-BASED HARMONIC APPROACH TO MORPHOPHONOLOGY
+Recent Work in Computational Linguistic Phylogeny
+A computational grammar for Persian based on GPSG
+"Book Review : 
+        Genres on the web: computational models and emprical studies
+        
+          Alexander
+          Mehler
+        
+        
+          Serge
+          Sharoff
+        
+        
+          Marina
+          Santini
+        
+"
+"Book Review : 
+        Methods in Latin computational linguistics. (Brill's studies in historical linguistics)
+        
+          Barbara
+          McGillivray
+        
+"
+Computational Semantic Analysis of Language: SemEval-2007 and Beyond: Introduction to the Special Issue
+Computational authorship attribution in medieval Latin corpora
+Computational semantic analysis of language: SemEval-2014 and beyond
+Computational text analysis within the Humanities: How to combine working practices from the contributing fields?
+Developing computational infrastructure for the CorCenCC corpus
+The potentials and limitations of modelling concept concreteness in computational semantic lexicons with dictionary definitions
+A Computational Model of Language Learnability and Language Change
+A Simple Proof That Optimality Theory Is Computationally Intractable
+HG Has No Computational Advantages over OT: Toward a New Toolkit for Computational OT
+"Parsing Efficiency, Computational Complexity, and the Evaluation of Grammatical Theories"
+A Computational Representation for Generalised Phrase-Structure Grammars
+Computational Structure of GPSG Models
+Computational complexity of polyadic lifts of generalized quantifiers in natural language
+"Book Review : Descriptive Tools for Electronic Processing of Dictionary Data:
+                            Studies in Computational Lexicography"
+Book Review : Handbook of computational linguistics and natural language processing
+Book Review : Integrated Natural Language Dialogues: A Computational Model
+Book Review : Linguistic and Computational Techniques in Machine Translation System Design
+Book Review : Natural Language Generation in Artificial Intelligence and Computational Linguistics
+Book Review : Natural Language Processing in PROLOG: An Introduction to Computational Linguistics
+Book Review : Recent Advances in Computational Terminology
+Book Review : Valency and Case in Computational Linguistics
+Book Review : Working with Functional Grammar: Descriptive and Computational Applications
+Finite-State Computational Morphology: An Analyzer Prototype for Zulu
+"Toward a Computational Model of Aspect and Verb
+                            Semantics"
+Call for papers: Thematic issue: 'Computational phonology'
+Computational phonology today
+"Computationally, tone is different"
+Formal and computational verification of phonological analyses
+"Book Review : 
+        COMPUTATIONAL APPROACHES TO LANGUAGE ACQUISITION
+        
+          Michael R.
+          Brent
+        
+"
+"Book Review : 
+        COMPUTATIONAL LINGUISTICS: AN INTRODUCTION
+        
+          Ralph
+          Grishman
+        
+"
+"Book Review : 
+        COMPUTATIONAL MODELS OF DISCOURSE
+        
+          Michael
+          Brady
+        
+        
+          Robert C.
+          Berwick
+        
+"
+"Book Review : 
+        COMPUTATIONAL PSYCHOLINGUISTICS: AI AND CONNECTIONIST MODELS OF HUMAN LANGUAGE PROCESSING
+        
+          Ton
+          Dijkstra
+        
+        
+          Koenraad
+          de Smedt
+        
+"
+"Book Review : 
+        VYGOTSKY AND COGNITIVE SCIENCE: LANGUAGE AND THE UNIFICATION OF SOCIAL AND COMPUTATIONAL MIND
+        
+          William
+          Frawley
+        
+"
+"International Conference on Computational Linguistics. Grenoble, 23. — 25. August 1967"

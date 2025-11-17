@@ -1,0 +1,2561 @@
+"Book Review : 
+        Papers in Computational Linguistics
+        
+          Ferenc
+          Papp
+        
+        
+          György
+          Szépe
+        
+"
+COMPLEX REVISITED: REMARKS ON SOME BASIC ISSUES IN COMPUTATIONAL LEXICOGRAPHY/LEXICOLOGY
+COMPUTATIONAL LEXICOGRAPHY: A QUERY SYSTEM FOR TEXT CORPORA
+TOOLS FOR COMPUTER-AIDED CORPUS LEXICOGRAPHY: THE HECTOR PROJECT
+TOWARDS A COMPUTERIZED HISTORICAL DICTIONARY OF DUTCH
+USING A BILINGUAL COMPUTERIZED DICTIONARY TO RETRIEVE SUPPORT VERBS AND COMBINATORIAL INFORMATION
+HOROLOGIUM E DÆGMÆL NEI MANOSCRITTI ANGLOSASSONI DEL COMPUTO
+LA LINGUISTICA COMPUTAZIONALE NELL'UNIVERSITÀ CATTOLICA DEL S. CUORE E L'ORIGINE DEL TERMINE INFORMATICA
+A Computer-Assisted Diagnostic and Prescriptive Tool For Use in Teaching Speech to the Deaf
+A Computer-Mediated Text System To Develop Communication Skills for Hearing-Impaired Students
+A Microcomputer Communication Game for Hearing-Impaired Students
+A Mixed-Methods Study of Teachers of the Deaf Learning to Integrate Computers Into Their Teaching
+A Model for the Implementation of Microcomputer Use Into a Program for the Hearing Impaired
+A National Microcomputer-Software Survey of Current Microcomputer Usage in Schools for the Hearing Impaired
+A Pilot Experiment in Computer Assisted Speechreading Instruction Utilizing the Data Analysis Video Interactive Device (DAVID)
+Administrative Dilemma: How to Stop Worrying and Start Loving the Computer
+An Interactive Computer System for Teaching Language Skills to Deaf Children
+Analysis of the Relative Instructional Efficiency of Microcomputer-Based Instruction and Teacher-Directed Instruction for Hearing-Impaired and Normal-Hearing Youth
+Attitudes Toward Computers of Preservice Teachers of Hearing-Impaired Students
+Authoring Computer Lessons—It's Easy!
+CAI at CSDF: Microcomputer-Based Authoring Systems
+COMPUTER-ASSISTED INSTRUCTION AND ITS POTENTIAL FOR TEACHING DEAF STUDENTS
+Combining Cognitive Learning Theory and Computer Assisted Instruction for Deaf Learners
+Computer Animated and Textured Presentation of Language for the Deaf
+Computer Animation and Language Instruction
+Computer Assisted Instruction for Deaf Students
+"Computer Assisted Instruction with Deaf Children: Panacea, Placebo or Poison?"
+Computer Support to Instructional Management-Instructional System in Mathematics: A Model
+Computer-Aided Instruction at the Florida School for the Deaf and the Blind
+Computer-Aided Self-Instruction Training with Hearing-Impaired Impulsive Students
+Computer-Assisted Evaluation at the California School for the Deaf—Fremont
+"Computer-Assisted Instruction at the California School for the Deaf—Past, Present, and Future: An Administrator's View"
+Computer-Assisted Video Instruction at Moore-Norman Vocational Technical School
+Computer-Based Education: Fact or Fad?
+Computer-Based Instruction for Hearing-Impaired Children in the Classroom
+Computer-Driven Decision Support Systems
+Computer-Mediated Communication and the Gallaudet University Community
+Computer-Supported Braille Applications
+Computerized Language Analysis
+Computers Help Teachers Too!
+Deaf Persons and Computer Use
+Deaf-Blind Computer Training Program at Ohlone Community College
+Deafsign: A Series of Computerized Instructional Programs for the Teaching of Sign Language
+Designing and Implementing the Use of Microcomputers in a Program for Hearing-Impaired Students
+Developing Thinking Skills Through the Use of Simple Computer Programming
+Dynamic Orometrics: A Computer-Based Means of Learning About and Developing Speech by Deaf Children
+ENFI — An Approach to Teaching Writing Through Computers
+ERRATUM: A National Microcomputer-Software Survey of Current Microcomputer Usage in Schools for the Hearing Impaired
+Early Reading in Young Deaf Children Using Microcomputer Technology
+English Remediation and the Older Deaf Student: The Computer as a Tool
+Faculty Computer Workshops: A Faculty Becoming Computer Literate
+Graphing and Percentage Applications Using the Personal Computer
+Group Learning and the Computer: The Teacher Brings an Apple for the Students
+Illustrating Language Through Computer Generated Animation
+Implementing Computer Assisted Instruction in a School: An Administrator′s Perspective
+Integration of Computers and Related Technologies into Deaf Education Teacher Preparation Programs
+Interfacing an Inexpensive Home Computer to the Videodisc: Educational Applications for the Hearing Impaired
+Introduction: Microcomputers: Macro-Learning for the Hearing Impaired
+Kendall Demonstration Elementary School Meets the Technological Challenge: A Comprehensive Computer-Managed Education System
+MATHEMATICS CURRICULUM SUPPORTED BY COMPUTER ASSISTED INSTRUCTION
+"Mathematics Software, A Computer Lab, and the Hearing Impaired"
+Microcomputer Activities of the Special Materials Project
+Microcomputer Awareness for Educators: A Workshop
+Microcomputer Reading Comprehension Improvement Program for the Deaf
+Microcomputer Use in Programs for Hearing-Impaired Children: A National Survey
+Microcomputers and Severely Handicapped Students: Are We Overbidding Our Hand?
+"Microcomputers are ""Macrocontributors"" to Special Education Programs"
+Microcomputers for Severely Handicapped Students: Issues in Design and Evaluation
+"Microcomputers in Education: Age of Romance, or Age of Reason?"
+Microcomputers in the Service of Students and Teachers—Computer-Assisted Instruction at the California School for the Deaf: An Update
+"Microcomputers, Model Rockets, and Race Cars"
+Personal Computing to Aid the Handicapped—The Johns Hopkins National Search: New Horizons
+Personalizing the Personal Computer for Your School
+Photojournalism: Microcomputer Text Editing and Photography—Synthesis and Divergence
+Principles and Requisites of Computer-Assisted Interactive Video Instruction: A Sign Language Lesson
+Productive Administratíve Applications of Computers in Schools and Programs for Deaf Students
+Putting Microcomputer Technology to Work for Our Hearing-Impaired Students
+Selected Applications of Computer-Assisted Video Instruction in the Education of Hearing-Impaired Students
+Sign Teacher: A Microcomputer Application for the Teaching of Sign Language
+Some Considerations in Selecting a Microcomputer for School
+Students: Handle with C.A.R.E.* *(Computer Assisted Remediation and Enrichment)
+Superimposing Visual Cues and Captions Over Slides to Teach Computer Operations
+"The ALPHA Interactive Microcomputer System for Teaching Reading, Writing, and Communication Skills to Hearing-Impaired Children"
+The American School for the Deaf Computer Literacy Program
+The Apple Microcomputer in School Learning Centers
+The California Connection: Interfacing a Telecommunication Device for the Deaf (TDD) and an Apple Computer
+The Classroom Computer as a Partner in Teaching Basic Skills to Hearing-Impaired Children
+The Computer as a Creative Educational Tool
+"The Computer—A Technology that Breaks the ""Sound"" Barrier"
+The Development of Your Own Programs for the Microcomputer—A Process Approach
+The Effective Use of Computers at Township High School District 214
+The Many Uses of Apple Computers at the Western Pennsylvania School for the Deaf
+The Microcomputer as an Administrative/Educational Tool in Education of the Hearing Impaired
+The Microcomputer in the Instruction of Hearing-Impaired Students: Tool or Distraction?
+The Role of Computer Assisted Instruction at the National Technical Institute for the Deaf
+The Test of Syntactic Abilities and Microcomputers
+The Use of Microcomputer Technology in Assessing and Training Communication Skills of Young Hearing-Impaired Children
+The Use of Microcomputers in Teacher Training Programs
+The Use of a Pocket Computer as an Aid for the Deaf
+The Utilization of the Computer with the Hearing Impaired and the Handicapped
+The Videodisc Meets the Microcomputer
+Toward Development of a Computer Programming Ability in Deaf Pre-High-School Students: A Pilot Study
+A Computer Search for the Origin of Executive Privilege
+A Study in Computer-Assisted Lexicology: Evidence on the Emergence of Hopefully as a Sentence Adverb from the JSTOR Journal Archive and Other Electronic Resources
+Computer Terminology: Words for New Meanings
+Computer-Grown Trees
+"Computers, Lexicographers, and the OED"
+Dialect Analysis by Computer
+Earlier Computer-Assisted Evidence on the Emergence of Hopefully as a Sentence Adverb
+Editing and Printing a Dialect Atlas by Computer
+Etymology of the Computer Bug: History and Folklore
+Language Studies Assisted by Computers
+"Of Corpora, Computers, and Linguistics"
+"Of Lexicography, Computers, and Norms"
+The Computer in Analysis and Plotting
+Time; Computer Terms
+Using Computers in Dialect Research
+"Yuppies, Yumpies, Yaps, and Computer-Assisted Lexicology"
+Computations on a Tai Dam Origin Myth
+Book Review : Cyborg Mind. What Brain-Computer and Mind-Cyberspace Interfaces Mean for Cyberneuroethics
+Datenaustausch und Kommunikation mit dem Computer über Internet. Anwendungen für Ethnologen
+"Le temps en Afrique noire. Conception, comput et
+                            gestion"
+The Computer Programmer
+"""That's Us! A Book About Ourselves"" An EFL Project with Intermediate Learners, Incorporating the Computer as a Tool"
+"""VIDEODEUTSCH"": A COMPUTER ASSISTED APPROACH TO VERBAL AND NONVERBAL CULTURAL LITERACY"
+A COMPUTER — BASED LEARNING OF BASIC JAPANESE
+A Computerized Phonetics Instructor: BABEL
+A REPORT OF A PROJECT ILLUSTRATING THE FEASIBILITY OF VIDEO/COMPUTER INTERFACE FOR USE IN ESL
+A Theoretical Foundation for the Development of Pedagogical Tasks in Computer Mediated Communication
+AN INFORMATION PROCESSING MODEL FOR COMPUTER-ASSISTED INSTRUCTION FOR FOREIGN LANGUAGE READING
+AN INTERACTIVE CONCORDANCE PROGRAM FOR THE SMALL COMPUTER
+Answer Markup on Computer-Assisted Language Learning
+Artificial Intelligence and Computer-Assisted Language Instruction: A Perspective
+BALTIMORE CITY SCHOOLS USE MICROCOMPUTERS TO TEACH WRITING
+Beyond Motivation: ESL/EFL Teachers' Perceptions of the Role of Computers
+Book Review : CALIS (Computer Assisted Language Instruction System)
+Book Review : Computer Modules for Assessing Socio-Cultural Competence
+Book Review : Computer Modules for Assessing Socio-Cultural Competence: Russian
+Book Review : Computers in Language Learning
+Book Review : Contemporary computer-assisted language learning
+Book Review : Evaluating computer-assisted language learning: An integrated approach to effectiveness research in CALL
+Book Review : INTRODUCING CAL: A Practical Guide to Writing Computer-Assisted Learning Programs
+"Book Review : Language–Learner Computer Interactions: Theory, Methodology, and CALL Applications"
+Book Review : Live Action English Interactive-TPR on a Computer
+Book Review : Multilingual Computer Assisted Language Learning
+Book Review : Recent Tools for Computer- and Mobile-Assisted Foreign Language Learning
+Book Review : Spanish Partner Introductory Spanish Exercises for Personal Computers
+Book Review : TACT (THEMATIC ANALYSIS OF COMPUTER TEXTS) VERSION 1.2
+"Born in Zanzibar, Computerized in Provo, Utah: A Systematic Instructional Design Approach for Swahili CALL"
+CALL for Uncommonly Taught African Languages: Computer Characterizations
+CAN COMPUTERS TEACH?
+CATACROC: Computer-Assisted Learning of Catalan
+COMPUTER - ASSISTED ESL RESEARCH
+COMPUTER LITERACY AND THE FOREIGN LANGUAGE TEACHER
+COMPUTER PROGRAMS DEVELOPED BY INDEPENDENT CONTRACTORS: WHO OWNS THE COPYRIGHT?
+COMPUTER-AIDED TRANSLATION AT WCC
+COMPUTER-ASSISTED ESL RESEARCH
+COMPUTER-ASSISTED EVALUATION OF STUDENT PAPERS: I CAN WRITE ANYTHING YOU CAN WRITE-FASTER AND BETTER
+COMPUTER-ASSISTED FOREIGN LANGUAGE MATERIALS: ADVANTAGES AND LIMITATIONS
+COMPUTER-ASSISTED INSTRUCTION IN BEGINNING COLLEGE GERMAN: AN EXPERIMENT
+COMPUTER-ASSISTED LANGUAGE LEARNING AT THE UNIVERSITY OF DUNDEE
+COMPUTER-ASSISTED LANGUAGE TESTING
+COMPUTER-ASSISTED READING LESSONS
+COMPUTER-ASSISTED TEXT-ANALYSIS FOR ESL STUDENTS
+COMPUTER-BASED FOREIGN LANGUAGE INSTRUCTION IN ILLINOIS SCHOOLS
+COMPUTERIZED ADAPTIVE LANGUAGE TESTING: MOVING BEYOND COMPUTER-ASSISTED TESTING
+COMPUTERS AND COLLEGE COMPOSITION
+COMPUTERS AND COMPOSITION IN HAWAII
+COMPUTERS IN THE FOREIGN LANGUAGE CLASSROOM: NO LONGER A QUESTION
+COMPUTERS IN THE HIGH SCHOOL NEWSROOM
+CUSTOMIZING A COMPUTERIZED TEXT ANALYZER FOR ESL WRITERS: COST VERSUS GAIN
+"Chinese Flashcards on Computer: A CAI System for Chinese with Voice, Characters, and Pinyin Tonal Diacritics"
+Communication Strategies in Computer-Mediated Communication: An Egyptian EFL Context
+"Computer Adaptive Language Tests (CALT) Offer a Great Potential for Functional Testing. Yet, Why Don't They?"
+Computer Aided Analysis of Foreign Language Writing Process
+Computer Applications and Research Agendas: Another Dimension in Professional Advancement
+Computer Assistance for Reading and Writing Japanese as a Foreign Language
+Computer Assisted Language Learning: A Client's View
+Computer Assisted Learning: Teacher Training Methodology and Evaluation of a Seminar for Language Teachers
+Computer Assisted Pronunciation Training: Targeting Second Language Vowel Perception Improves Pronunciation
+"Computer Assisted Reading in German as a Foreign Language, Developing and Testing an NLP-based Application"
+Computer Assisted Vocabulary Learning: Framework and Tracking User Data
+Computer Supported Collaborative Writing in Practice: An Activity Theoretical Study
+Computer vs. Workbook Instruction in Second Language Acquisition
+Computer-Assisted Error Analysis and Courseware Design: Applications for ESL in the Swedish Context
+Computer-Assisted Language Learning (CALL) in Extracurricular/Extramural Contexts
+Computer-Assisted Language Learning Conversations: Negotiating an Outcome
+Computer-Assisted Language Learning: From Vision to Reality?
+Computer-Assisted Spanish-Composition Instruction Survey--1986
+Computer-Mediated Feedback in Composition Correction
+Computer-Mediated Grammar Practice and its Effect on Different Language Tasks
+Computer-assisted Language Learning — The Times They Are A-Changin'
+Computer-mediated Communication and a Cautionary Tale of Two Cities
+Computer-mediated Communication: Texts and Strategies
+Computer-mediated Materials for Chinese Character Learning
+Computer-mediated Scaffolding in L2 Students' Academic Literacy Development
+Computerized Dictation for Assessing Listening Proficiency
+Computers for EFL in Developing Countries: Problem and Solutions
+Computing Accurate Grammatical Feedback in a Virtual Writing Conference for German-Speaking Elementary-School Children: An Approach Based on Natural Language Generation
+Contextualized Computer-based L2 Prosody Training: Evaluating the Effects of Discourse Context and Video Input
+Conversation Analysis of Computer-Mediated Communication
+Conversation analysis in Computer-assisted Language Learning
+Corpora Processing and Computational Scaffolding for a Web-based English Learning Environment: The CANDLE Project
+Current Uses of Computers in ESOL Instruction in the U.S.
+DEVELOPING A COMPUTER-ASSISTED READING INSTRUCTION PROGRAM
+"Developing a Multimedia, Computer-based Spanish Placement Test"
+Did We Forget Someone? Students' Computer Access and Literacy for CALL
+"ETHICS AND COMPUTERS: THE ""OIL AND WATER"" MIX OF THE COMPUTER WORLD?"
+English Language Learners’ Strategies for Reading Computer-Based Texts at Home and in School
+Error Analysis in Japanese Writing and Its Implementation in a Computer Assisted Language Learning System on the World Wide Web
+Establishing the Criteria for an Authoring System: The Example of Private Tutor and the Macintosh Computer
+Evaluating A Computer-Adaptive ESL Placement Test
+Exploiting the Potential of a Computer-Based Grammar Checker in Conjunction with Self-Monitoring Strategies with Advanced Level Students of French
+FIRST STEPS TO COMPUTER LITERACY
+FORMAT FOR THE EVALUATION OF COURSEWARE USED IN COMPUTER-ASSISTED LANGUAGE INSTRUCTION (CALI)
+Face-to-face and Computer-mediated Peer Review in EFL Writing
+Fifty Years of Classical Computing: A Progress Report
+Foreign Language Productivity in Synchronous Versus Asynchronous Computer-mediated Communication
+Giving and receiving advice in computer-mediated peer response activities
+"Human Factors in a Computer Assisted Foreign Language Environment: The Effects of Gender, Personality and Keyboard Control"
+HyperCharacters: A Pilot Study in Computerized Learning of Chinese Characters
+ISAAC: An Introduction to IBM's Information System for Advanced Academic Computing at the University of Washington-Seattle
+Improved Delivery of Lexical Information in a Computer Assisted Reading Instruction Program
+Interactional Features of Synchronous Computer-Mediated Communication in the Intermediate L2 Class: A Sociocultural Case Study
+Interdisciplinary: Computer Assisted Linguistic Research and the Development of LSP Courseware
+Interpreting Visual Feedback on Suprasegmentals in Computer Assisted Pronunciation Instruction
+Is Computer-Based Grammar Instruction as Effective as Teacher-Directed Grammar Instruction for Teaching L2 Structures?
+"Language and Computing at Duke University: or, Virtue Triumphant, for the Time Being"
+Microcomputers and English Language Instruction: A Few Years Later
+"Mirror, Mirror, on the Wall: Reflections on ComputerAssisted Language Learning"
+Monitoring Student Behavior in Computerized Latin Exercises
+Negotiating Pragmatic Competence in Computer Mediated Communication: The Case of Korean Address Terms
+Neural Network Computing and Natural Language Processing
+On The Computer as A Medium For Language Teaching
+PERSISTENT PROBLEMS OF COMPUTER-ASSISTED INSTRUCTION
+"PILOT, SNOBOL, AND LOGO AS COMPUTING TOOLS FOR FOREIGN-LANGUAGE INSTRUCTION"
+Personality Types and Megabytes: Student Attitudes Toward Computer Mediated Communication (CMC) in the Language Classroom
+Practical Design and Implementation Considerations of a Computer Adaptive Foreign Language Test: The Monash/Melbourne French CAT
+Putting Computers in Their Place: Presented at CALICO '90 Symposium in Baltimore
+RECOGNITION OF STUDENT INPUT IN COMPUTER-ASSISTED LANGUAGE LEARNING
+Reach Out and Compute Someone
+Situated Learning for Foreign Language Teachers in One-to-One Computing Initiatives
+Sociopragmatic Features of Learner-to-Learner Computer-Mediated Communication
+Software Engineering Principles Applied to Computer Assisted Language Learning
+"Special issue of the ""CALICO Journal"": Computer-mediated Communication and Foreign Language Learning: Context, Research, and Practice May 2005"
+Stimulating Activity: The Role of Computers in the Language Classroom
+Sunoikisis: Computer-Mediated Communication in the Creation of a Virtual Department
+Synchronous Computer-mediated Dynamic Assessment: A Case Study of L2 Spanish Past Narration
+Synchronous-Voice Computer-Mediated Communication: Effects on Pronunciation
+THE ANXIETY OVER TECHNOLOGY (AND WHY I LIKE COMPUTERS ANYWAY)
+THE COMPUTER LESSON AS AN INTEGRATED ELEMENT IN THE ACADEMIC EFL READING CURRICULUM
+THE EVALUATION AND SELECTION OF COMPUTER-BASED TRAINING AUTHORING SYSTEMS
+THE TEACHER/PUPIL/COMPUTER PARTNERSHIP IN INSTRUCTIONAL COMPUTING
+THE TRANSLATION PROFESSION AND THE COMPUTER
+THE WORLD CENTER FOR COMPUTING'S PILOT VIDEODISC PROJECT FOR FRENCH LANGUAGE INSTRUCTION
+THREE MAJOR APPROACHES TO DEVELOPING COMPUTER-ASSISTED LANGUAGE LEARNING MATERIALS FOR MICROCOMPUTERS
+TWO COMPUTER PROGRAMS FOR THE LANGUAGE STUDENT
+Task-based Oral Computer-mediated Communication and L2 Vocabulary Acquisition
+Teaching Tone and Intonation With Microcomputers
+Teaching the Computer Swedish: Morphology and Phonology
+Test Takers' Experiences with Computer-administered Listening Comprehension Tests: Interviewing for Qualitative Explorations of Test Validity
+Testing Computer Assisted Language Testing: Towards a Checklist for CALT
+Testing Oral Language Skills via the Computer
+The Computerized Mini-AMTB
+The Development of Grammatical Competence through Synchronous Computer-mediated Communication
+The Effectiveness of Computer-Assisted Pronunciation Training
+The Effects of Three Feedback Forms on Learning Through a Computer-Based Tutorial
+The Evolution of Vocabulary Learning Strategies in a Computer-Mediated Reading Environment
+The Ghost in the Machine: Generating Error Messages In Computer Assisted Language Learning Programs
+The Negotiation Model in Asynchronous Computer-mediated Communication (CMC): Negotiation in Task-based Email Exchanges
+The Role of Computer-Supported Discussion for Language Teacher Education: What Do the Students Say?
+The Status of Computer-Assisted Language Instruction
+The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction
+Thirty years of Computer Assisted Language Instruction: Introduction
+Toward Transdisciplinarity in Computer-Assisted Language Learning
+Toward a Research and Development Strategy for Computer-Assisted Language Learning
+Toward an Understanding of Incidental Input Enhancement in Computerized L2 Environments
+USING COMPUTERS TO TEACH FOREIGN LANGUAGES TO ADULTS
+USING MICROCOMPUTER WORD PROCESSORS FOR FOREIGN LANGUAGES
+Using Computer-mediated Communication to Establish Social and Supportive Environments in Teacher Education
+Using Computerized Bilingual Dictionaries to Help Maximize English Vocabulary Learning at Japanese Colleges
+Using a Computer in Foreign Language Pronunciation Training: What Advantages?
+Using a Tablet Computer for EFL Positive Self-Review
+Using the Microcomputer to Bridge the Language Gap
+WRITING CONFERENCES ON THE COMPUTER
+What One Has to Know About Methodology in Computing
+When the Music Stops: A Review of Using Computers in Language Learning
+Writing to Mean: Computer-mediated Feedback in Online Tutoring of Multidraft Compositions
+Ein Beispiel der Verarbeitung zentralasiatischer Schriftsysteme in einem Mainframe-Computer
+Mongolische Schriften im Computer
+"THE APPLICATION OF COMPUTER PROCESSING TO ALTAIC STUDIES. Feasibility, Procedure and Problems"
+"Chancen und Perspektiven computergestützter Lexikographie: Hypertext, Internet und SGML/XML für die Produktion und Publikation digitaler Wörterbücher"
+Elektronische Materialgrundlage und computergestützte Ausarbeitung eines historischen Belegwörterbuchs.
+Verfahren und Techniken in der computergestützten Lexikographie
+A User Perspective on Computer-Assisted Translation for Minority Languages
+"Book Review : 
+            Computational Models of Discourse
+            
+              Michael
+              Brady
+            
+            
+              Robert C.
+              Berwick
+            
+"
+"Book Review : 
+            Getting Computers to Talk like You and Me: Discourse, Context, Focus, and Semantics; An ATN Model
+            
+              Rachel
+              Reichman
+            
+"
+"Book Review : 
+            Natural Language Computing: The Commercial Applications
+            
+              Tim
+              Johnson
+            
+"
+"Book Review : 
+            Natural Language Parsing. Psychological, Computational, and Theoretical Perspectives
+            
+              David
+              Dowty
+            
+            
+              Lauri
+              Kartunnen
+            
+            
+              Arnold
+              Zwicky
+            
+"
+"Book Review : 
+            Tools for the Trade: Translating and the Computer 5
+            
+              Veronica
+              Lawson
+            
+"
+"Computer Aided Translation Project, University Sains Malaysia, Penang, Malaysia"
+Linguistic and Extra-Linguistic Knowledge: A Catalogue of Language-Related Rules and Their Computational Application in Machine Translation
+"On Computers, Translation, and Stanisław Lem"
+Stylistics and Computing: Machine Translation as a Tool for a New Approach to Stylistics
+Unification and the Computational Analysis of Arabic
+"""Dictio probatoria"" as Fingerprint: Computer Discovery of Manuscript Provenances"
+"""Ethnometrics"": Cultural Measurements as a Neccessary Counterbalance to the Cost-Effectiveness Revolution; Some Implications of the Computers-in-Anthropology Conference"
+"""Minds and Machines"" for Humanities Majors: A Liberal Arts Course in Computers and Cognition"
+"""Respice Finem"" and the ""Tantum Quantum"": An Essay Review of Computational Stylistics for 1967-1968"
+1976 ACM Computer Science Conference: A Report
+A Bibliography of Intelligent Computer-Assisted Language Instruction
+A Computer Aided Study of Ecuadorean Urban Music
+"A Computer Analysis of Metrical Patterns in ""Beowulf"""
+A Computer Experiment on the Chronology of Xenophon
+A Computer Program That Accepts Common Musical Notation
+A Computer Study of Systematic Sound Symbolism in Classical Japanese Verse
+A Computer Study of a Suspension-Formation in the Masses of Josquin Desprez
+A Computer-Aided Methodology for the Analysis and Classification of British-Canadian Children's Traditional Singing Games
+A Computer-Assisted Approach to Micro-Analysis of Melodic Lines
+"A Computer-Assisted Graphemic Analysis of ""Beowulf"": Purpose and Procedure"
+A Computer-Assisted Investigation of Gender-Related Idiolect in Octavio Paz and Rosario Castellanos
+A Computer-Assisted Study of Dissonance in the Masses of Josquin Desprez
+A Computer-Assisted Study of a Philosophical Text
+A Computer-Assisted Study of the Vocabulary of Young Navajo Children
+A Computer-Based Census and Local Handlist System for Incunabula
+A Computer-Based System for the Organization and Processing of Site-Location and Boundary Data
+A Computer-Oriented System for Music Printing
+A Computerized Language Analysis System
+A Computerized Spanish Verb Experiment Revisited
+A Concept Dictionary of English with Computer Programs for Content Analysis
+A Correction: Computers and the Classics
+A Creative Arts Approach to Computer Programming
+A General Introduction to Computing
+A Microprocessor-Based Multilingual Terminal for a Computerized Information Handling System
+A Model for Intelligent Computer Assisted Language Instruction (MICALI)
+A National Science Computer Network: A Report on the First Working Seminar
+A New Computer Format for Webster's Seventh Collegiate Dictionary
+A New Computer-Assisted Literary Criticism?
+A New Pedagogical Approach to the Study of Texts with a Microcomputer
+"A Poetic Formula in ""Beowulf"" and Seven Other Old English Poems: A Computer Study"
+A Preliminary Survey on the Use of Computers in Linguistic Research
+A Survey of Computer-Aided Research in Early German
+A Survey of Computer-Assisted Research in Modern German
+A System for Interactive Encoding of Music Scores under Computer Control
+A System for Music Printing by Computer
+A Videotape Course for Computer Education in the Humanities
+Actors: Computing Dramatic Characters that Are on Stage Simultaneously
+"An ""Index Verborum"" to Gratian's ""Decretum"": The Reason to Computerize It"
+An Extended Character Set for Humanities Computer Printout
+An Intelligent Computer-Assistant for Stylistic Instruction
+An Interdisciplinary Bibliography for Computers and the Humanities Courses
+An International Survey of Museum Computer Activity
+An Introduction to Computing in Music
+Anatomy of a New Medium: Literary and Pedagogic Uses of Advanced Linguistic Computer Structures
+Animating the Language Machine: Computers and Performance
+"Art, Art History, and the Computer"
+Assessing the Impact of Computer-Assisted Instruction (CAI) in Undergraduate Latin American Studies Courses
+Beauty and the Beast: New Approaches to Teaching Computing for Humanities Students at the University of Aberdeen
+"Beyond Symbiosis: The Humanist, the Librarian, and the Computer"
+"Book Review : 
+            A Bibliography of Computer Applications in Music
+            
+               Stefan M.
+               Kostka
+            
+"
+"Book Review : 
+            A Bibliography of Computer Music: A Reference for Composers
+            
+               Sandra L.
+               Tjepkema
+            
+"
+"Book Review : 
+            A Computer Model of Transformational Grammar
+            
+               Joyce
+               Friedman
+            
+            
+               Thoman H.
+               Bredt
+            
+            
+               Robert W.
+               Doran
+            
+            
+               Bary W.
+               Pollack
+            
+            
+               Theodore S.
+               Martner
+            
+"
+"Book Review : 
+            A Computer-Aided Technique for Stylistic Discrimination: The Authorship of Greene's Groatsworth of Wit
+            
+               Warren B.
+               Austin
+            
+"
+"Book Review : 
+            A Computerized Word-Index to the Platonic Epistles
+            
+               Janet
+               Schiff
+            
+"
+"Book Review : 
+            A Flexible Efficient Computer System for Answering Human Questions
+            
+               John Craig
+               Comfort
+            
+"
+"Book Review : 
+            A Gateway to the Use of Computers in Education: AEDS Proceedings, 18th Annual Convention
+"
+"Book Review : 
+            A Guide to Computer Applications in the Humanities
+            
+               Susan
+               Hockey
+            
+"
+"Book Review : 
+            A Stylo-Statistical Study of ""Adolphe"" Preceded by Indexes and a Description of Computer Programming for Language Analysis
+            
+               Robert F.
+               Allen
+            
+"
+"Book Review : 
+            Accessing Antiquity: The Computerization of Classical Studies
+            
+               Jon
+               Solomon
+            
+"
+"Book Review : 
+            Archives and the Computer
+            
+               Michael
+               Cook
+            
+"
+"Book Review : 
+            Associative Networks: Representation and Use of Knowledge by Computers
+            
+               N. V.
+               Findler
+            
+"
+"Book Review : 
+            Bits, Bytes and Biblical Studies. A Resource Guide for the Use of Computers in Biblical Studies
+            
+               John J.
+               Hughes
+            
+"
+"Book Review : 
+            CORPUS LINGUISTICS II, New Studies in the Analysis and Exploitation of Computer Corpora
+            
+               J.
+               Aarts
+            
+            
+               W.
+               Meijs
+            
+"
+"Book Review : 
+            Computability and Logic
+            
+               George S.
+               Boolos
+            
+            
+               Richard C.
+               Jeffery
+            
+"
+"Book Review : 
+            Computation in Language Text Analysis
+            
+               Michael S.
+               Mepham
+            
+"
+"Book Review : 
+            Computational Approaches to Language Acquisition
+            
+               Michael R.
+               Brent
+            
+"
+"Book Review : 
+            Computational Linguistics (Computerlinguistik): An International Handbook on Computer Oriented Language Research and Applications (Handbücher zur Sprach- und Kommunikationswissenschaft, Bd. 4)
+            
+               István S.
+               Bátori
+            
+            
+               Winfried
+               Lenders
+            
+            
+               Wolfgang
+               Putschke
+            
+"
+"Book Review : 
+            Computational Models of Discourse
+            
+               Michael
+               Brady
+            
+            
+               Robert C.
+               Berwick
+            
+"
+"Book Review : 
+            Computational Semantics: An Introduction to Artificial Intelligence and Natural Language Comprehension
+            
+               Eugene
+               Charniak
+            
+            
+               Yorick
+               Wilks
+            
+"
+"Book Review : 
+            Computer Applications in Archaeology 1978
+            
+               Susan
+               Laflin
+            
+"
+"Book Review : 
+            Computer Applications in Reading
+            
+               George E.
+               Mason
+            
+            
+               Jay S.
+               Blanchard
+            
+"
+"Book Review : 
+            Computer Applications to Music: A Bibliography
+            
+               Deta
+               Davis
+            
+"
+"Book Review : 
+            Computer Corpora in English Language Research
+            
+               Stig
+               Johansson
+            
+"
+"Book Review : 
+            Computer Keys Data Entry Emulator
+            
+               Mark
+               Olsen
+            
+"
+"Book Review : 
+            Computer Methods for Literary Research
+            
+               R. L.
+               Oakman
+            
+"
+"Book Review : 
+            Computer Models in the Social Sciences
+            
+               Robert B.
+               Coats
+            
+            
+               Andrew
+               Parkin
+            
+"
+"Book Review : 
+            Computer Models of Thought and Language
+            
+               Roger C.
+               Shank
+            
+            
+               Kenneth Mark
+               Colby
+            
+"
+"Book Review : 
+            Computer Programming with COMIT II
+            
+               Victor H.
+               Yngve
+            
+"
+"Book Review : 
+            Computer Programs for Literary Analysis
+            
+               John R.
+               Abercrombie
+            
+"
+"Book Review : 
+            Computer Science in Social and Behavioral Science Education
+            
+               Daniel E.
+               Bailey
+            
+"
+"Book Review : 
+            Computer Simulation in Human Population Studies
+            
+               Bennet
+               Dyke
+            
+            
+               Jean Walters
+               MacClure
+            
+"
+"Book Review : 
+            Computer-Assisted Language Learning and Testing. Research Issues and Practice
+            
+               Patricia
+               Dunkel
+            
+"
+"Book Review : 
+            Computers & Systems; An Introduction for Librarians
+            
+               John
+               Eyre
+            
+            
+               Peter
+               Tonks
+            
+"
+"Book Review : 
+            Computers and Composing: How the New Technologies Are Changing Writing
+            
+               Jeanne W.
+               Halpern
+            
+            
+               Sarah
+               Liggett
+            
+"
+"Book Review : 
+            Computers and Creativity
+            
+               Carole Spearin
+               McCauley
+            
+"
+"Book Review : 
+            Computers and Crisis: How Computers Are Shaping Our Future
+            
+               Robert W.
+               Bemer
+            
+"
+"Book Review : 
+            Computers and Early Books: Report of the LOC Project Investigating Means of Compiling a Machine-Readable Union Catalogue of Pre-1801 Books in Oxford, Cambridge, and the British Museum
+"
+"Book Review : 
+            Computers and Human Communication: Problems and Prospects
+            
+               D. L.
+               Crowner
+            
+            
+               L. A.
+               Marshall
+            
+"
+"Book Review : 
+            Computers and Literature. A Practical Guide
+            
+               B. H.
+               Rudall
+            
+            
+               T. N.
+               Corns
+            
+"
+"Book Review : 
+            Computers and Man
+            
+               Richard C.
+               Dorf
+            
+"
+"Book Review : 
+            Computers and Old English Concordances
+            
+               Angus
+               Cameron
+            
+            
+               Roberta
+               Frank
+            
+            
+               John
+               Leyerle
+            
+"
+"Book Review : 
+            Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM, January 22-23, 1965
+"
+"Book Review : 
+            Computers in Linguistics
+            
+               Christopher
+               Butler
+            
+"
+"Book Review : 
+            Computers in Newspaper Publishing
+            
+               Dineh
+               Moghdam
+            
+"
+"Book Review : 
+            Computers in the Service of Society
+            
+               Robert Lee
+               Chartrand
+            
+"
+"Book Review : 
+            Computing for Historians. An Introductory Guide
+            
+               Evan
+               Mawdsley
+            
+            
+               Thomas
+               Munck
+            
+"
+"Book Review : 
+            Computing in the Humanities
+            
+               Peter C.
+               Patton
+            
+            
+               Renée A.
+               Holoien
+            
+"
+"Book Review : 
+            Conference on the Use of Computers in Humanistic Research
+            Rutgers
+            State University
+            International Business Machines Corporation
+"
+"Book Review : 
+            Corpus Linguistics: Recent Developments in the Use of Computer Corpora in English Language Research
+            
+               Jan
+               Aarts
+            
+            
+               Willem
+               Meijs
+            
+"
+"Book Review : 
+            Documentation, Computer and Christian Communities (RIC 1)
+            
+               Marie
+               Zimmermann
+            
+"
+"Book Review : 
+            Eine statistische, computerunterstützte Echtheitsprüfung von ""The Repentance of Robert Greene"": Ein methodischer und systematischer Ansatz
+            
+               Norbert
+               Bolz
+            
+"
+"Book Review : 
+            Eine statistische, computerunterstützte Echtheitsprüfung von 'The Repentance of Robert Greene': Ein methodischer und systematischer Ansatz
+            
+               Norbert
+               Bolz
+            
+"
+"Book Review : 
+            Exploring English with Microcomputers
+            
+               Daniel
+               Chandler
+            
+"
+"Book Review : 
+            Formulaic Diction in the 'Poema de Fernan Gonzalez' and the 'Mocedades de Rodrigo': A Computer-Aided Analysis
+            
+               John Steven
+               Geary
+            
+"
+"Book Review : 
+            From Writing to Computers
+            
+               Julian
+               Warner
+            
+"
+"Book Review : 
+            Fundamentals in Computer Understanding: Speech and Vision (An Advanced Course)
+            
+               J-P.
+               Haton
+            
+"
+"Book Review : 
+            History and Computing
+            
+               Peter
+               Denley
+            
+            
+               Deian
+               Hopkin
+            
+"
+"Book Review : 
+            Homographie: Ein Beitrag zur automatischen Wortklassenzuweisung in der Computerlinguistik
+            
+               M.
+               Boot
+            
+"
+"Book Review : 
+            How You Can Learn to Live with Computers
+            
+               Harry
+               Kleinberg
+            
+"
+"Book Review : 
+            I Consilia dei Giuristi Medievali per un Repertorio-Incipitario computerizzato. (The ""Consilia"" of Medieval Jurists. A Case for Computerized Repertory and Incipits)
+            
+               M.
+               Ascheri
+            
+"
+"Book Review : 
+            INQUIRER III (Edinburgh Version) a Computer Based System for Content Analysis
+"
+"Book Review : 
+            Illustrative Computer Programming for Libraries: Selected Examples for Information Specialists
+            
+               Charles H.
+               Davis
+            
+"
+"Book Review : 
+            Informationslinguistische Texterschlieβung (Sprache und Computer, vol. 4.)
+            
+               Schwarz
+               Christoph
+            
+            
+               Gregor
+               Thurmair
+            
+"
+"Book Review : 
+            Informatique interactive et sciences de l'homme (Interactive Computing and the Humanities)
+            
+               E.
+               Chouraqui
+            
+            
+               J.
+               Virbel
+            
+"
+"Book Review : 
+            International Computing Symposium 1975: Proceedings of the International Computing Symposium 1975, Antibes, France, 2-4 June 1975
+            
+               E.
+               Gelenbe
+            
+            
+               D.
+               Potier
+            
+"
+"Book Review : 
+            Introduction to Computer Applications for Non-Science Students (BASIC)
+            
+               William Ralph
+               Bennett
+               Jr.
+            
+"
+"Book Review : 
+            Introduction to Computer Music
+            
+               W.
+               Bateman
+            
+"
+"Book Review : 
+            Introduction to Data Structures and Non-Numeric Computation
+            
+               Peter C.
+               Brillinger
+            
+            
+               Doron J.
+               Cohen
+            
+"
+"Book Review : 
+            Konflictlösung durch Vermittlung: Computersimulation zwischenstaatlicher Krisen
+            
+               Dieter
+               Ruloff
+            
+"
+"Book Review : 
+            Language, Writing and the Computer. Readings from ""Scientific American""
+            
+               William S. -Y.
+               Wang
+            
+"
+"Book Review : 
+            Literary Computing and Literary Criticism: Theoretical and Practical Essays on Theme and Rhetoric
+            
+               Rosanne G.
+               Potter
+            
+"
+"Book Review : 
+            Literary Concordances. A Complete Handbook for the Preparation of Manual and Computer Concordances
+            
+               T. W.
+               Howard-Hill
+            
+"
+"Book Review : 
+            Manual for the Printing of Literary Texts by Computer
+            
+               Robert Jay
+               Glickman
+            
+            
+               Gerrit Joseph
+               Staalman
+            
+"
+"Book Review : 
+            Mathematics and Computers in Archaeology
+            
+               J. E.
+               Doran
+            
+            
+               F. R.
+               Hodson
+            
+"
+"Book Review : 
+            MaxSPITBOL: The SNOBOL4 Language for the Apple Macintosh Computer
+            
+               Eric
+               Johnson
+            
+"
+"Book Review : 
+            Microcomputers in Museums; MDA Occasional Paper 7
+            
+               Richard B.
+               Light
+            
+            
+               D. Andrew
+               Roberts
+            
+            
+               Charles J. T.
+               Copp
+            
+            
+               Anthony
+               Fletcher
+            
+            
+               Stephen G.
+               Jones
+            
+            
+               Julian
+               Ravest
+            
+            
+               Geoffrey N.
+               Swinney
+            
+"
+"Book Review : 
+            Mindstorms: Children, Computers, and Powerful Ideas
+            
+               Seymour
+               Papert
+            
+"
+"Book Review : 
+            Museum Cataloging in the Computer Age
+            
+               Robert G.
+               Chenhall
+            
+"
+"Book Review : 
+            Natural Language Information Processing: A Computer Grammar of English and Its Applications
+            
+               Naomi
+               Sager
+            
+"
+"Book Review : 
+            Natural Language Processing in Prolog: An Introduction to Computational Linguistics
+            
+               Gerald
+               Gazdar
+            
+            
+               Chris
+               Mellish
+            
+"
+"Book Review : 
+            On-Line Computation and Simulation: The OPS-3 System
+            
+               Martin
+               Greenberger
+            
+            
+               Malcolm M.
+               Jones
+            
+            
+               James H.
+               Morris
+               Jr.
+            
+            
+               David N.
+               Ness
+            
+"
+"Book Review : 
+            People-Oriented Computer Systems: The Computer in Crisis
+            
+               Edward A.
+               Tomeski
+            
+            
+               Harold
+               Lazarus
+            
+"
+"Book Review : 
+            Proceedings of Apollo Agonistes, the Humanities in a Computerized World
+            
+               M. E.
+               Grenander
+            
+"
+"Book Review : 
+            Proceedings of the International Conference on Literary and Linguistic Computing, Israel
+            
+               Zvi
+               Malachi
+            
+"
+"Book Review : 
+            Screen Design Strategies for Computer-Assisted Instruction
+            
+               Jesse M.
+               Heines
+            
+"
+"Book Review : 
+            Shakespeare's Grammatical Style: A Computer-Assisted Analysis of ""Richard II"" and ""Antony and Cleopatra""
+            
+               Dolores M.
+               Burton
+            
+"
+"Book Review : 
+            Software Interpreters for Microcomputers
+            
+               Thomas C.
+               McIntire
+            
+"
+"Book Review : 
+            Spogli Elettronici dell'Italiano delle Origini e del Duecento. (A Computerized Linguistic Inventory of Early Italian 960-1321)
+"
+"Book Review : 
+            Statewide Computing Systems: Coordinating Academic Computer Planning
+            
+               Charles
+               Mosmann
+            
+"
+"Book Review : 
+            TEXTPACK V: Text Analysis Utilities for the Personal Computer
+"
+"Book Review : 
+            Teaching Law with Computers: A Collection of Essays
+            
+               Russell
+               Burris
+            
+            
+               Robert E.
+               Keeton
+            
+            
+               Carolyn P.
+               Landis
+            
+            
+               Roger
+               Park
+            
+"
+"Book Review : 
+            Text, ConText, and HyperText: Writing with and for the Computer
+            
+               Edward
+               Barrett
+            
+"
+"Book Review : 
+            The Byte Book of Computer Music
+            
+               Christopher P.
+               Morgan
+            
+"
+"Book Review : 
+            The Computer in Composition Instruction: A Writer's Tool
+            
+               William
+               Wresch
+            
+"
+"Book Review : 
+            The Humanities Computing Yearbook - 1988
+            
+               Ian
+               Lancashire
+            
+            
+               Willard
+               McCarty
+            
+"
+"Book Review : 
+            The Process of Question Answering: A Computer Simulation of Cognition
+            
+               Wendy
+               Lehnert
+            
+"
+"Book Review : 
+            The Psychology of Computer Programming
+            
+               Gerald M.
+               Weinberg
+            
+"
+"Book Review : 
+            The Story of Computers
+            
+               Donald D.
+               Spencer
+            
+"
+"Book Review : 
+            The Syntactic Structure of English Texts: A Computer-Based Study of Four Kinds of Text in the Brown University Corpus
+            
+               Alvar
+               Ellegard
+            
+"
+"Book Review : 
+            The Treatment by Computer of Medieval Arabic Biographical Data
+            
+               F. M.
+               Douglas
+            
+            
+               G.
+               Fourcade
+            
+"
+"Book Review : 
+            Thirty Years of Computer Assisted Language Instruction. Festschrift for John R. Russell
+            
+               Ruth H.
+               Sanders
+            
+"
+"Book Review : 
+            Travels in Computerland
+            
+               Ben Ross
+               Schneider
+               Jr.
+            
+"
+"Book Review : 
+            Turing's Man: Western Culture in the Computer Age
+            
+               J. David
+               Bolter
+            
+"
+"Book Review : 
+            Tölvukönnun á tíðni or ða og stafa í íslenskum texta (On Computer-Generated Word- and Letter-Frequencies in an Islandic Text)
+            
+               Baldur
+               Jónsson
+            
+            
+               Björn
+               Ellertsson
+            
+            
+               Sven þ.
+               Sigurðsson
+            
+"
+"Book Review : 
+            Using the Computer in the Social Sciences
+            
+               Ronn J.
+               Hy
+            
+"
+"Book Review : 
+            Writing & Computers
+            
+               Colette
+               Daiute
+            
+"
+"Book Review : 
+            Writing On-Line: Using Computers in the Teaching of Writing
+            
+               James L.
+               Collins
+            
+            
+               Elizabeth A.
+               Sommers
+            
+"
+Bringing Bacon Home: The Divergent Progress of Computer-Aided Historical Research in Europe and the United States
+Categorisation Techniques in Computer-Assisted Reading and Analysis of Texts (CARAT) in the Humanities
+Church History and the Computer
+Clio and Computers: A Survey of Computerized Research in History
+"Clio and Computers: Moving into Phase II, 1970-1972"
+Cluster Analysis for the Computer-Assisted Statistical Analysis of Melodies
+Comparing Text Editions with the Aid of the Computer
+Composing by Computer
+Computation in the Philosophy Curriculum
+Computational Considerations for the Processing of Explanatory Literal Analogies and Expressive Metaphors
+Computational Lexicography
+Computational Linguistics and Statistics in the Analysis of the Montreal French Corpus
+Computational Linguistics and the Humanist
+Computational Linguistics and the Study of Linguistic Performance
+Computational Linguistics in Denmark: A Report on the Third AILA Congress
+Computational Musicology
+Computer Analysis and Transcription of Performed Music: A Project Report
+Computer Analysis in German History
+Computer Analysis of a Dialectal Transition Belt
+Computer Application of a Syntactic Density Measure
+"Computer Applications for an Edition of Robert Burton's ""The Anatomy of Melancholy"": A System for Scholarly Publishing"
+Computer Applications in Archaeology
+Computer Applications in Cultural Anthropology
+Computer Art
+Computer Assisted Modeling of Affective Tone in Written Documents
+Computer Courses for Humanists: A Survey
+Computer Courses for the Humanist: A Survey
+Computer Dating of Medieval Inscriptions: South Indian Tamil
+Computer Detection of Errors in Natural Language Texts: Some Research on Pattern-Matching
+Computer Documentation: Writing about Technology
+Computer Enhanced Assessment of Case-Notes in Studies of Psychopathology: The Example of an Autistic Subject
+Computer Generation of Melodies: Further Proposals
+Computer Indexing of Illuminated Manuscripts for Use in Medieval Studies
+Computer Instruction for Scholars in the Humanities
+Computer Language: An Innovation in the Liberal Arts Curriculum
+Computer Literacy for the Rest of Us
+Computer Modeling and Critical Theory
+Computer Music
+Computer Poetry
+Computer Printing of Braille Music Using the IML-MIR System
+Computer Programs Designed to Solve Humanistic Problems
+Computer Sequencing and Non-Alphabetic Interference in Language Data Processing
+Computer Simulations and the Far Reaches of Computer-Assisted Instruction
+Computer Study of Medieval German Poetry: A Conference Report
+Computer Techniques for the National Archives
+Computer-Aided Humanities Research at the University of Wisconsin
+Computer-Aided Russian Textbook
+Computer-Aided Studies of Middle High German Texts: A Report on the Mannheim Symposium
+Computer-Aided Usage 'Labeling' in a Dictionary
+Computer-Assisted Compilation of a Nahuatl Dictionary
+Computer-Assisted Instruction as an Integral Part of a First-Semester French Curriculum
+"Computer-Assisted Learning for School Pupils of History, French and English in the UK"
+Computer-Assisted Study of Early German: The Mannheim Symposium of 1973
+Computer-Assisted Techniques to Enhance Transformative Learning in First-Year Literature Courses
+Computer-Based Authorship Attribution without Lexical Measures
+Computer-Based Hindi Pedagogy
+Computer-Based Instruction in Musicianship Training: Some Issues and Answers
+Computer-Implemented Music Analysis and the Copyright Law
+Computer-Mediated Texts and Textuality: Theory and Practice
+Computer-Produced Mapping of Dialectal Variation
+Computer-Supplemented Latin Instruction at Dartmouth College
+Computer/Stylistics Seminar: A Report
+Computerized Correction of Phonographic Errors
+Computerized Data Banks in Archaeology: The European Situation
+Computerized Folk Song Research and the Problem of Variants
+Computerized Full-Text Retrieval Systems and Research in the Humanities: The Responsa Project
+Computerized Lemmatization without the Use of a Dictionary: A Case Study from Swedish Lexicology
+Computerized Terminology
+Computerized Video-Composition for the Humanist
+Computerizing Biblical Literature
+Computerizing Céline
+Computers Come of Age in Writing Instruction
+Computers and Classical Literature: 1970-1971
+Computers and Classical Literature: 1971-1972
+Computers and European Museums: A Report
+"Computers and Historians: Past, Present, and Future"
+Computers and Legal Reasoning: Developments in Germany
+Computers and Literary Scholarship
+Computers and Machine Technology in Research Libraries
+Computers and Medieval English Lexicography
+Computers and Old English/A Conference Report
+Computers and Philosophical Lexicography: The Activities of the Lessico Intellettuale Europeo
+Computers and Political Science: A Review Article
+Computers and Resource-Based History Teaching: A UK Perspective
+Computers and Teaching Literature: Introduction
+Computers and Writing: Casting a Broader Net with Theory and Research
+Computers and the 16th-Century Chanson: A Pilot Project at the University of Chicago
+Computers and the Classics
+Computers and the Classics
+Computers and the Classics
+Computers and the Classics: A Supplement
+Computers and the Humanities Courses: Philosophical Bases and Approach
+Computers and the Humanities in Britain
+Computers and the Old Spanish Dictionary
+Computers and the Visual Arts
+Computers in Historical Analysis
+"Computers, Bibliography, and Foreign Language Typography"
+"Computers, Traditional Scholarship, and the ACLS"
+Computing Historical Consciousness. A Quantitative Inquiry into the Presence of the Past in Newspaper Texts
+"Computing in Musicology, 1966-91"
+Conference Report on the Belgian Symposium: The Computer in the Human Sciences
+"Creativity, Computers and Copyright"
+Critical Theory and Textual Computing: Comments and Suggestions
+Current Approaches to Punctuation in Computational Linguistics
+Current Computing Activity in Scandinavia Related to Language and Literature Research
+Current Scandinavian Computer-Assisted Language and Literature Research
+Current Scandinavian Computer-Assisted Language and Literature Research
+Current Trends in Computer-Assisted Instruction
+DOC 1988: The Modernization of a Chinese Dialect Dictionary on Computer
+"DOC, 1971: A Chinese Dialect Dictionary on Computer"
+Diffusion of Computer Utilization among Sociology Instructors
+E-Talk: Attitudes and Motivation in Computer-Assisted Classroom Discussion
+ESL Applications of the Computer-Controlled Videodisc Player
+EYEBALL: A Computer Program for Description of Style
+Editor's Introduction: Image-Based Humanities Computing
+Editorial: Computers in Humanities Teaching and Research
+Electrifying the Canon: The Impact of Computing on Classical Studies
+Errata: Corpus Linguistics: Recent Developments in the Use of Computer Corpora in English Language Research
+"Erratum: Computer Applications for an Edition of Robert Burton's ""The Anatomy of Melancholy"": A System for Scholarly Publishing"
+Establishing a German Root System by Computer
+Estado Actual de la Aplicacion de Computadoras a textos en Español
+Etat présent de l'utilisation des ordinateurs pour l'étude de la littérature française / An Overview of Computer-Aided Study of French Literature
+FINNMORF: A Computerized Reference Tool for Students of Finnish Morphology
+FLOW: A Teaching Language for Computer Programming in the Humanities
+Federal Support of Computer-Based Humanities Research
+Finding the Range: Linguistic Analysis and Its Role in Computer-Assisted Literary Study
+Formulaic Analysis of the Computer-Accessible Corpus of Latvian Sun-Songs
+Formulas and Syntax in Old English Poetry: A Computer Study
+French Grammar Computerized I and II
+From Microfilm to Computer: 15th Century Cadastral and Notarial Archives
+Funding Computer-Aided Research in the Division of Research Grants at the National Endowment for the Humanities
+"Futures: A Non-Summary of the EDUCOM Symposium on the Computer and Humanistic Studies, 8, 9, 10 June 1967"
+GTSIM: A Computer Simulation of Music Perception
+Gore Galore: Literary Theory and Computer Games
+Guest Editor's Note: Computers and Medieval Studies
+"Historians, Programmers, and Computer Languages: APL in Historical Research"
+How Should We Teach Computing to Humanists?
+Human Language and Computers
+Humanities Computing 25 Years Later
+Humanities Computing Activities in Italy
+Humanities Computing in Italy
+ICAME: Quo Vadis? Reflections on the Use of Computer Corpora in Linguistics
+Image Processing via Computer in Aerial Archaeology
+Innovation in Historical Research: A Computer Approach
+Integration of Communicative Hand Movements into Human-Computer-Interaction
+Intelligent Computer-Assisted Language Learning: A Bibliography
+Intelligent Knowledge-Based Systems in Archaeology: A Computerized Simulation of Reasoning by Means of an Expert System
+Interactive Collation on a Microcomputer: The URICA! Approach
+Introducing Computational Techniques in Dialectometry
+Introducing the Institut de Recherche et d'Histoire des Textes (C.N.R.S.): Medieval Book and Computer
+Introduction to Computer Science
+Introduction to Computers in History
+"Introduction to Special Topic Issue of Computers and the Humanities: ""Digital Images"""
+Introduction: Common Methodologies in Humanities Computing and Computational Linguistics
+Introduction: Intelligent Computer-Assisted Language Instruction
+Introduction: The Adolescence of Computer-Assisted Instruction
+Isaiah and the Computer: A Preliminary Report
+KLIC: A Computer Aid to Graphological Analysis
+Letter to the Editor: Computer Music
+Letter to the Editor: Computer Music
+Letter to the Editor: Museum Computer Network
+Letter to the Editor: Music by Computers
+Lexical Choices and Aesthetic Success: A Computer Content Analysis of 154 Shakespeare Sonnets
+"Lexical Distribution in the ""Guomin Xiaoxue Guoyu"": A Computer-Assisted Analysis of Morpholexical Elements"
+Linguistic Computing in the Sixties
+Literary Analysis with the Aid of the Computer: Review Symposium
+Literary Criticism and Literary Computing: The Difficulties of a Synthesis
+Literary Studies: A Computer Assisted Teaching Methodology
+Literary Texts and the State of the Language: The Role of the Computer
+Medieval Charters and the Computer: An Analysis Using Mark IV
+Microcomputers and Large Data Bases
+Microcomputers as Field Tools
+Museums and the Computer: An Appraisal of New Potentials
+Music Analysis by Computer: A Conference Report
+Music and Computing: The Present Situation
+Musical Analysis and the Computer: A Report on Some Current Approaches and the Outlook for the Future
+Musical Research by Computer: Some Current Limitations
+Musicology and Computers
+Musicology and the Computer in New Orleans
+Narrative Theories as Computational Models: Reader-Oriented Theory and Artificial Intelligence
+Narrow Phonetic Transcription on the Computer: Taking the Phone off the Hook
+New Tool for an Ancient Art: The Computer and Music
+Nexus and Stage: Computer-Assisted Class Discussion and the First-Year English Course
+On the Benefits of Interrelating Computer Science and the Humanities: The Case of Metaphor
+On the Corpus Size Needed for Compiling a Comprehensive Computational Lexicon by Automatic Lexical Acquisition
+On-Line Disciplines: Computer-Mediated Scholarship in the Humanities and Social Sciences
+PC-Kimmo: A Computational Linguistic Tool for Humanities Applications
+Perspectives on Teaching Computing in the Humanities
+Philosophical Lexicography: The LIE and the Use of the Computer
+Phonology and Style: A Computer-Assisted Approach to German Verse
+Poetry and Computers: Experimenting with the Communal Text
+Positions for Computing Humanists
+Practical Writing Resource Kit and Computer Writing Resource Kit
+Problems of Representation in Musical Computing
+Processing Emblems with the Computer
+Processing of Japanese Kanji on a Microcomputer
+Professor-Created Computer Programs for Student Research
+"Progress in Stylistics: Theory, Statistics, Computers"
+Publishing Scholarly Compilations by Computer
+"Quantification, Computers, and History"
+Radical Changes in Class Discussion Using Networked Computers
+Recent Computer Applications in Cultural Anthropology
+Recent Developments in Computer-Assisted Musical Scholarship
+Reconstitution of Illegible Portions of a Damaged Manuscript with the Help of the Computer
+Records of Early English Drama and the Computer
+Report: The First Summer School on Linguistics for Computer Scientists
+Research and Representation: The M.Phil in History and Computing
+Romance Etymology: A Computerized Model
+SELECT: A Computer Program to Identify Associationally Rich Words for Content Analysis. I. Statistical Results
+SELECT: A Computer Program to Identify Associationally Rich Words for Content Analysis. II. Substantive Results
+Select Resources for Image-Based Humanities Computing
+Selected Bibliography for Computer Courses in the Humanities
+"Signs, Symbols and Discourses: A New Direction for Computer-Aided Literature Studies"
+Situation and Prospects of Computer-Aided Literary Research in Spanish
+"Some Approaches to Computer Analysis of Dialogue in Theater: Buero Vallejo's ""En la ardiente oscuridad"""
+Some Computer Applications in Political Science
+Some Early Efforts in Computational Musicology
+Some Perspectives on Teaching Computers and the Humanities
+Some Preliminary Attempts at Computer-Assisted Style Analysis in Music
+"Soviet Historians, Quantitative Methods, and Digital Computers"
+Speaking with One Voice: Encoding Standards and the Prospects for an Integrated Approach to Computing in History
+"Statistical Analysis of Literature: A Retrospective on ""Computers and the Humanities"", 1966-1990"
+Stylistics and the Computer: Classroom Mix and Match?
+Summary of the Activities of the Istituto di Linguistica Computazionale
+"Symposium on the Uses of Computers in Literary Research: Edinburgh, 27-30 March 1972"
+Symposium on the Uses of the Computer in Literary Research: A Conference Report
+Teaching Computers and the Humanities Courses: A Survey
+Teaching Hebrew with the Aid of Computers: The Illinois Program
+Teaching Languages on the Computer at the University of Turin: CAI and Interactive Videodisc
+Teaching a Computer to Speculate
+Ten Desiderata for Computer-Assisted Language Learning Programs: The Example of ELSE
+"The ""Old Man and the Sea"" and the Computer"
+The 1969 International Conference on Computational Linguistics: A Progress Report
+The 1975 Madrid Computers in Linguistics Conference
+The ACH Page: Graduate Education in Humanities Computing
+The ACH Page: The Evolution of Humanities Computing Centers
+The ACH Page: The Job Market for Humanities Computing
+The ACLS Program for Computer Studies in the Humanities: Notes on Computers and the Humanities
+"The Acquisition, Representation and Reconstruction of Printed Music by Computer: A Review"
+The Annals of Computing: Stylistics
+The Annals of Computing: The Greek Testament
+The Annals of Humanities Computing: The Index Thomisticus
+The Annual Meeting of the Association for Computational Linguistics
+The Challenge for Computer-Assisted Rhetoric
+The Chaotic State of Computer Music
+The Compleat Computer Center
+The Computer Music Facility at Simon Fraser University
+"The Computer and Plato's ""Seventh Letter"""
+The Computer and the Concept of Text
+The Computer and the Historian: Some Tentative Beginnings
+The Computer as Art Cataloguer
+The Computer as an Instructional Device for the Arabic Writing System
+The Computer in Archaeology: A Critical Survey
+The Computer in Determining Stemmatic Relationships
+The Computer in Literary Analysis: Using TACT with Students
+The Computer in Social History: Historical Demography in Germany
+The Computer in the Museum
+The Copyright Revision Bill in Relation to Computers
+The Current State of Music Research and the Computer
+The Cybernetic Centaur: Advances in Computer-Assisted Instruction
+The Development of Computer Courses for Humanists
+The Development of Early Computer-Assisted Writing Instruction (1960-1978): The Double Logic of Media and Tools
+The Dictionary of Old English and the Final Design of Its Computer System
+The First Computer-Assisted MHG Word-Index
+The Future of Teaching the Past: Computer-Assisted Instruction in History
+The Grinnell House Round Table on a Center for Computer-Aided Humanities Research
+The Harpur College Music-Computer Seminar: A Report
+The Humanist and Computer-Assisted Library Research
+The Impact of Computers on Archaeological Theory: An Appraisal and Projection
+The Individualized History Survey Course and the Computer
+The Interdisciplinary Group for Expression Signs Computing
+"The Machine in the Garden: Computers and Literary Scholarship, 1970"
+The Ninth Conference on Computers in the Undergraduate Curricula: A Report
+The Proportions of Some Archaic Greek Sculptured Figures: A Computer Analysis
+"The Question concerning Theory: Humanism, Subjectivity, and Computing"
+The Role and Design of Computer Studies in a Research-Oriented Translation Program
+The Role of Computer-Assisted Learning in a Proficiency-Based Language Curriculum
+The Surface of Language and Humanities Computing
+The Thematic Index: A Computer Application to Musicology
+"The Theory of Ordering Lexicographic Entries: Principles, Algorithms and Computer Implementation"
+The Third USA-Japan Computer Conference: A Report
+The Training of Artists in Computer Graphics
+The Use of Computers in Editing Medieval Baptismal Records in Pisa (1457-1509)
+The Use of Natural Language Processing in Computer-Assisted Language Instruction
+The Use of the Computer in Plotting the Geographical Distribution of Dialect Items
+The Use of the Computer in the Analysis of German Folksongs
+The Writer and the Computer
+Toward a Theory of Rhythm in French Poetry: Computer Assisted Recognition of Rhythmic Groups in Traditional Isometrical Alexandrines
+Towards a Computer Curriculum for the Humanities
+Towards the Implementation of Text and Discourse Theory in Computer-Assisted Textual Analysis
+Travel Guide to Computerland
+Trends in Computer Applications to Literature
+Troubadours and Transposition: A Computer-Aided Study
+"Unseen Users, Unknown Systems: Computer Design for a Scholar's Dictionary"
+"Use of the Computer in Music Research: A Short Report on Accomplishments, Limitations, and Future Needs"
+Using Computer Technology to Teach and Evaluate Prewriting
+Using Intelligent Computer-Assisted Language Learning
+"Using a Computer-Generated Concordance to Analyze and Document Stylistic Devices in Robert Pinget's ""Fable"""
+Using the Computer to Identify Differences among Text Variants
+What Computers Are Good For in the Literature Classroom
+Winged Words: Varieties of Computer Application to Literature
+"Zur Erstellung einer computerunterstützten Grammatik ""Flexionsmorphologie des Frühneuhochdeutschen"""
+Computer as a conversational partner
+LEXICOGRAFÍA COMPUTACIONAL EN LAS BÚSQUEDAS ONOMASIOLÓGICAS CON LENGUAJE NATURAL
+"Book Review : 
+            Computational Linguistics III
+            
+              F.
+              Kiefer
+            
+"
+"Book Review : 
+            Natural Language and the Computer
+            
+              Paul L.
+              Garvin
+            
+"
+"Book Review : 
+        Computer Analysis of Present-Day American English
+        
+          Henry
+          Kučera
+        
+        
+          W. Nelson
+          Francis
+        
+"
+Hockett on Effective Computability
+The Identification of the Computer and Information Sciences: Their Fundamental Semiotic Concepts and Relationships
+Computer Analysis of Alsea
+Computer-Aided Philology and Algorithmic Linguistics: A Case Study
+Possible Electronic Computation of Typological Indices for Linguistic Structures
+"A COMPUTER APPLICATION OF MATTHEW Y. CHEN'S ""FROM MIDDLE CHINESE TO MODERN PEKING"" / 用电脑对陈渊泉的汉语语音演变的模仿"
+A Computerized Database of the Entire body of extant Han & Pre-Han Traditional Chinese Texts at the China University of Hong Kong
+"Book Review : 
+        A Synchronic Phonology of Modern Colloquial Shanghai. Computational Analyses of Asian and African Languages Monograph #15
+        
+          Michael
+          Sherard
+        
+"
+"Book Review : 
+        CLIBOC: Chinese linguistics bibliography on computer (Princeton - Cambridge Studies in Chinese Linguistics)
+        
+          WILLIAM S—Y.
+          WANG
+        
+        
+          ANATOLE
+          LYOVIN
+        
+"
+"Book Review : 
+        COMPUTER PROCESSING OF ASIAN SPOKEN LANGUAGES
+        
+          SHUICHI
+          ITASHASHI
+        
+        
+          CHIU-YU
+          TSENG
+        
+"
+"Book Review : 
+        Computational Analysis of Mandarin
+        
+          Ching Y.
+          Suen
+        
+"
+"Book Review : 
+        Computers, Language Reform, and Lexicography in China: A Report by the CETA Delegation
+        
+          J.
+          Mathias
+        
+        
+          T.L.
+          Kennedy
+        
+"
+"Book Review : 
+        Proceedings of ROCLING II (R.O.C. Computational Linguistics Workshop)
+        
+          Chu-Ren
+          Huang
+        
+        
+          Keh-jiann
+          Chen
+        
+"
+"Book Review : 
+        The Teng-Xian Dialect of Chinese. Computational Analyses of Asian and African Languages Monograph #3
+        
+          Anne O.
+          Yue
+        
+"
+"Book Review : 
+        The Yilan Dialect of Chinese: A Classified Lexicon with Grammatical Notes. (In Japanese) Computational Analyses of Asian and African Languages Monograph #14
+        
+          Ching-han
+          Lan
+        
+"
+COMPUTER-ASSISTED INSTRUCTION IN CHINESE: AN INTERIM REPORT
+International Conference on Computer Processing of Chinese and Oriental Languages (1990 ICCPCOL)
+R.O.C. COMPUTATIONAL LINGUISTICS WORKSHOPS I
+R.O.C. Computational Linguistics Workshop II (ROCLING II)
+"Report on the 1988 International Conference on Computer Processing of Chinese and Oriental Languages August 29 — September 1, 1988 Toronto, Canada"
+THE 1986 INTERNATIONAL CONFERENCE ON CHINESE COMPUTING
+LFG FOR CHINESE: ISSUES OF REPRESENTATION AND COMPUTATION / LFG用于汉语：表示与计算中的若干问题
+THE COMPUTATIONAL MODELS OF THE BEHAVIORTRAN ENGLISH-CHINESE MACHINE TRANSLATION SYSTEM / BehaviorTran 英中機譯系統之計算模式
+THE USE OF COMPUTERS IN CHINESE LINGUISTICS
+USING COMPUTER SIMULATION TO STUDY LINGUISTIC DIFFUSION / 用模拟仿真研究语言扩散
+A Computational Model of Korean Morphological Analysis: A Prediction-Based Approach
+A Computer Simulation of Language Families
+"Book Review : 
+        Interface Strategies: Optimal and Costly Computations
+        
+          Tanya
+          Reinhart
+        
+"
+Book Review : Recursion: A computational investigation into the representation and processing of language (Oxford Studies in Biolinguistics)
+A Computational Treatment of Anaphora and Its Algorithmic Implementation
+A Modal Perspective on the Computational Complexity of Attribute Value Grammar
+"Book Review : 
+            Computability, Enumerability, Unsolvability: Directions in Recursion Theory
+            
+               S. B.
+               Cooper
+            
+            
+               T. A.
+               Slaman
+            
+            
+               S. S.
+               Wainer
+            
+"
+"Book Review : 
+            Computational Approaches to Language Acquisition
+            
+               Michael R.
+               Brent
+            
+"
+"Book Review : 
+            Effective Logic Computation
+            
+               Klaus
+               Truemper
+            
+"
+"Book Review : 
+            Gems of Theoretical Computer Science
+            
+               Uwe
+               Schöning
+            
+            
+               Randall
+               Pruim
+            
+"
+"Book Review : 
+            Quantifiers: Logic, Models and Computation
+            
+               M.
+               Krynicky
+            
+            
+               M.
+               Mostowski
+            
+            
+               L. W.
+               Szczerba
+            
+"
+"Book Review : 
+            Temporal Logic: Mathematical Foundations and Computational Aspects, Volume 2
+            
+               Dov M.
+               Gabbay
+            
+            
+               Mark A.
+               Reynolds
+            
+            
+               Marcelo
+               Finger
+            
+"
+"Book Review : 
+        Computation Engineering: Applied Automata Theory and Logic
+        
+          Ganesh
+          Gopalakrishnan
+        
+"
+"Book Review : 
+        The Haskell Road to Logic, Maths and Programming Texts in Computing Series
+        
+          Kees
+          Doets
+        
+        
+          Jan
+          van Eijck
+        
+"
+"Computational Semantics in Discourse: Underspecification, Resolution, and Inference"
+Concrete Digital Computation: What Does it Take for a Physical System to Compute?
+Easy Solutions for a Hard Problem? The Computational Complexity of Reciprocals with Quantificational Antecedents
+Exploring Feature Agreement in French with Parallel Pregroup Computations
+Group Theory and Computational Linguistics
+Inference and Computational Semantics
+Kolmogorov Complexity for Possibly Infinite Computations
+Natural Language Semantics and Computability
+Put My Galakmid Coin into the Dispenser and Kick It: Computational Linguistics and Theorem Proving in a Computer Game
+The Complexity of Modellability in Finite and Computable Signatures of a Constraint Logic for Head-Driven Phrase Structure Grammar
+Slavic Corpus and Computational Linguistics
+7.1 Computer coding of IPA symbols and 7.3 Detailed phonetic representation of computer data bases
+"Book Review : 
+        Connected Speech: An Interactive Multimedia Computer Program for English Pronunciation Learners, Version 1.2.NS for Windows (available in British English, North American English and Australian English versions)
+"
+"Book Review : 
+        Electronically Speaking: Computer Speech Generation
+        
+          John P.
+          Cater
+        
+"
+"Book Review : 
+        Phonetic Script Formatter. A computer program for printing mixed orthographic and phonetic characters on Epson dot-matrix printers
+        
+          Mark
+          Huckvale
+        
+"
+"Book Review : 
+        Tyne Bytes: A Computerized Sociolinguistic Study of Tyneside
+        
+          Val
+          Jones-Sargent
+        
+"
+Computer Coding of the IPA: Extensions to the IPA
+Computer Coding of the IPA: Supplementary Report
+Computer codes for phonetic symbols
+Computer-coded Phonemic Notation of Individual Languages of the European Community
+Computer-coded phonetic transcription
+Developing computerized transcription exercises for American English
+IPA characters on an IBM compatible personal computer: Better Letter Setter reviewed
+Microcomputer-assisted phonetics teaching and phonetics word-processing: A survey
+The IPA 1989 Kiel Convention Workgroup 9 report: Computer Coding of IPA Symbols and Computer Representation of Individual Languages
+Computergesteuerte Sprachempirie – was nützt sie dem Recht?
+Computergestützte Analyse juristischen Sprachgebrauchs.
+Association for Computational Linguistics
+"Book Review : 
+            A Guide to Computer Applications in the Humanities
+            
+               Susan
+               Hockey
+            
+"
+LINGÜÍSTICA Y COMPUTACIÓN
+A Note on the Digital Computer in Linguistics
+"Book Review : 
+        Automaton theories of human sentence comprehension (CSLI studies in computational linguistics)
+        
+          John T.
+          Hale
+        
+"
+"Book Review : 
+        Computational Lexicology and Lexicography: Bibliography
+        
+          Conrad F.
+          Sabourin
+        
+"
+"Book Review : 
+        Computational Psycholinguistics: An Interdisciplinary Approach to the Study of Language
+        
+          Matthew W.
+          Crocker
+        
+"
+"Book Review : 
+        Computational approaches to morphology and syntax (Oxford surveys in syntax and morphology 4)
+        
+          Brian
+          Roark
+        
+        
+          Richard
+          Sproat
+        
+"
+"Book Review : 
+        Computational methods for corpus annotation and analysis
+        
+          Xiaofei
+          Lu
+        
+"
+"Book Review : 
+        Computational models of referring: A study in cognitive science
+        
+          Kees
+          van Deemter
+        
+"
+"Book Review : 
+        Computer Corpora in English Language Research
+        
+          Stig
+          Johansson
+        
+"
+"Book Review : 
+        Computer Translation of Natural Language
+        
+          Walter
+          Goshawke
+        
+        Ian D. K. Kelly
+        
+          J. David
+          Wigg
+        
+"
+"Book Review : 
+        Computerized Grammars for Analysis and Machine Translation
+        
+          Bengt
+          Sigurd
+        
+"
+"Book Review : 
+        Corpus Linguistics, Hard and Soft: Proceedings of the Eighth International Conference on English Language Research on Computerized Corpora
+        
+          
+            Merja
+            Kytö
+          
+        
+        
+          Ossi
+          Ihalainen
+        
+        
+          Matti
+          Rissanen
+        
+"
+"Book Review : 
+        English for the Computer: The SUSANNE Corpus and Analytic Scheme
+        
+          Geoffrey
+          Sampson
+        
+"
+"Book Review : 
+        Exercises in Computational Linguistics
+        
+          H. Brandt
+          Corstius
+        
+"
+"Book Review : 
+        Korpustutkimus kielitypologiassa sovellettuna Udmurttiin [Computer Corpus Analysis in Language Typology Applied to Udmurt (Votyak)]
+        
+          Pirkko
+          Suihkonen
+        
+"
+"Book Review : 
+        Learner English on Computer
+        
+          Sylviane
+          Granger
+        
+"
+"Book Review : 
+        Linguistic and Computational Techniques in Machine Translation System Design
+        
+          Peter
+          Whitelock
+        
+        
+          Kieran
+          Kilby
+        
+"
+"Book Review : 
+        Linguistics and Computation
+        
+          Jennifer
+          Cole
+        
+        
+          Georgia M.
+          Green
+        
+        
+          Jerry L.
+          Morgan
+        
+"
+"Book Review : 
+        Natural Language Computing: An English Generative Grammar in Prolog
+        
+          Ray C.
+          Dougherty
+        
+"
+"Book Review : 
+        The Articulate Computer
+        
+          Michael
+          McTear
+        
+"
+"Book Review : 
+        The Computational Analysis of English: A Corpus-Based Approach
+        
+          Roger
+          Garside
+        
+        
+          Geoffrey
+          Leech
+        
+        
+          Geoffrey
+          Sampson
+        
+"
+"Book Review : 
+        The Computer and the Mind: An Introduction to Cognitive Science
+        
+          Philip N.
+          Johnson-Laird
+        
+"
+"Book Review : 
+        The handbook of computational linguistics and natural language processing. (Blackwell handbooks in linguistics)
+        
+          Alexander
+          Clark
+        
+        
+          Chris
+          Fox
+        
+        
+          Shalom
+          Lappin
+        
+"
+"Book Review : 
+        Verbal Style and the Presidency: A Computer-Based Analysis
+        
+          Roderick P.
+          Hart
+        
+"
+Book Review : Advances in Corpus Linguistics: Papers from the 23rd International Conference on English Language Research on Computerized Corpora (ICAME 23)
+COMPUTATIONAL PHYLOGENETICS AND THE INTERNAL STRUCTURE OF PAMA-NYUNGAN
+CONSPIRING TO MEAN: EXPERIMENTAL AND COMPUTATIONAL EVIDENCE FOR A USAGE-BASED HARMONIC APPROACH TO MORPHOPHONOLOGY
+Computer Analysis of Skewed Kinship Terminologies
+Computer Participation in Linguistic Research
+High-Speed Computation of Lexicostatistical Indices
+Recent Work in Computational Linguistic Phylogeny
+Semantic Analysis of Texts by Computer
+The Digital Computer as an Aid in Linguistics
+A computational grammar for Persian based on GPSG
+"Book Review : 
+        Genres on the web: computational models and emprical studies
+        
+          Alexander
+          Mehler
+        
+        
+          Serge
+          Sharoff
+        
+        
+          Marina
+          Santini
+        
+"
+"Book Review : 
+        Handling emotions in human-computer dialogues
+        
+          J.
+          Pittermann
+        
+        
+          A.
+          Pittermann
+        
+        
+          W.
+          Minker
+        
+"
+"Book Review : 
+        Methods in Latin computational linguistics. (Brill's studies in historical linguistics)
+        
+          Barbara
+          McGillivray
+        
+"
+"Book Review : 
+        Semantic Processing of Legal Texts: where the language of law meets the law of language (Lecture notes in computer science: lecture notes in artificial intelligence, Vol 6036)
+        
+          E.
+          Francesconi
+        
+        
+          S.
+          Montemagni
+        
+        
+          W.
+          Peters
+        
+        
+          D.
+          Tiscornia
+        
+"
+Computational Semantic Analysis of Language: SemEval-2007 and Beyond: Introduction to the Special Issue
+Computational authorship attribution in medieval Latin corpora
+Computational semantic analysis of language: SemEval-2014 and beyond
+Computational text analysis within the Humanities: How to combine working practices from the contributing fields?
+Developing computational infrastructure for the CorCenCC corpus
+Evaluating human corrections in a computer-assisted speaker diarization system
+The potentials and limitations of modelling concept concreteness in computational semantic lexicons with dictionary definitions
+American Sign Language in Virtual Space: Interactions between Deaf Users of Computer-Mediated Video Communication and the Impact of Technology on Language Practices
+"Book Review : 
+        Meaning and Discourse: A Computer Model of Psychoanalytic Speech and Cognition
+        John Henry Clippinger, Jr.
+"
+Book Review : Multilingual youth practices in computer mediated communication
+Liminality in multitasking: Where talk and task collide in computer collaborations
+"Book Review : 
+        The Pseudo-Cyprianic De Pascha Computus
+        
+          George
+          Ogg
+        
+"
+A Computational Model of Language Learnability and Language Change
+A Simple Proof That Optimality Theory Is Computationally Intractable
+HG Has No Computational Advantages over OT: Toward a New Toolkit for Computational OT
+On the Difference between the Lexicon and Computation (Regarding Slavic Yers)
+Parallel Computation in Word Formation
+"Parsing Efficiency, Computational Complexity, and the Evaluation of Grammatical Theories"
+"Subject Islands, Reconstruction, and the Flow of the Computation"
+The Subject-in-Situ Generalization and the Role of Case in Driving Computations
+A Computational Representation for Generalised Phrase-Structure Grammars
+Computational Structure of GPSG Models
+Computational complexity of polyadic lifts of generalized quantifiers in natural language
+Direct Deductive Computation on Discourse Representation Structures
+Sense and the Computation of Reference
+A process study of computer-aided translation
+Book Review : A Topical Bibliography of Computer (-Aided) Translation
+"Book Review : Descriptive Tools for Electronic Processing of Dictionary Data:
+                            Studies in Computational Lexicography"
+Book Review : Explanation and Interaction: The Computer Generation of Explanatory Dialogues
+Book Review : Functional Grammar and the Computer
+Book Review : Handbook of computational linguistics and natural language processing
+Book Review : Integrated Natural Language Dialogues: A Computational Model
+Book Review : Language and Computers
+Book Review : Linguistic and Computational Techniques in Machine Translation System Design
+Book Review : Natural Language Generation in Artificial Intelligence and Computational Linguistics
+Book Review : Natural Language Processing in PROLOG: An Introduction to Computational Linguistics
+Book Review : Recent Advances in Computational Terminology
+Book Review : Studies in Computer-Aided Lexicology
+"Book Review : The Music Machine: Selected Readings from ""Computer Music
+                            Journal"""
+Book Review : Using computers in the translation of literary style: challenges and opportunities
+Book Review : Valency and Case in Computational Linguistics
+Book Review : Working with Functional Grammar: Descriptive and Computational Applications
+Computer-assisted sign language translation
+Finite-State Computational Morphology: An Analyzer Prototype for Zulu
+"Toward a Computational Model of Aspect and Verb
+                            Semantics"
+Translation project adaptation for MT-enhanced computer assisted translation
+Unit Completion for a Computer-Aided Translation Typing System
+Linguists and Computers
+Contextual blindness in implicature computation
+The role of focus intonation in implicature computation: a comparison with only and also
+"Book Review : 
+        The Harmonic Mind: From Neural Computation to Optimality-Theoretic Grammar
+        
+          Paul
+          Smolensky
+        
+        
+          Géraldine
+          Legendre
+        
+"
+Call for papers: Thematic issue: 'Computational phonology'
+Computation also matters
+Computational phonology today
+"Computationally, tone is different"
+Formal and computational verification of phonological analyses
+Машинный фонд русского языка (Computer Corpus of the Russian Language)
+A COMPUTERIZED LEXICON OF AMERICAN SIGN LANGUAGE: THE DASL 1965 IN FORTRAN
+"Book Review : Rebuilt: How Becoming Part Computer Made Me More Human
+ChorostMichael"
+Computer-Assisted Language Learning in British Sign Language Learning
+"Book Review : 
+        AN INTRODUCTION TO COMPUTER-ASSISTED LANGUAGE TEACHING
+        
+          M. J.
+          Kenning
+        
+        
+          M.-M.
+          Kenning
+        
+"
+"Book Review : 
+        ASSESSMENT OF CHRONOGRAPHY IN FINNISH-ENGLISH TELEPHONE CONVERSATION: AN ATTEMPT AT A COMPUTER ANALYSIS
+        
+          Seppo
+          Sneck
+        
+"
+"Book Review : 
+        COMPUTATIONAL APPROACHES TO LANGUAGE ACQUISITION
+        
+          Michael R.
+          Brent
+        
+"
+"Book Review : 
+        COMPUTATIONAL LINGUISTICS: AN INTRODUCTION
+        
+          Ralph
+          Grishman
+        
+"
+"Book Review : 
+        COMPUTATIONAL MODELS OF DISCOURSE
+        
+          Michael
+          Brady
+        
+        
+          Robert C.
+          Berwick
+        
+"
+"Book Review : 
+        COMPUTATIONAL PSYCHOLINGUISTICS: AI AND CONNECTIONIST MODELS OF HUMAN LANGUAGE PROCESSING
+        
+          Ton
+          Dijkstra
+        
+        
+          Koenraad
+          de Smedt
+        
+"
+"Book Review : 
+        COMPUTER LEARNER CORPORA, SECOND LANGUAGE ACQUISITION, AND FOREIGN LANGUAGE TEACHING
+        
+          Sylviane
+          Granger
+        
+        
+          Joseph
+          Hung
+        
+        
+          Stephanie
+          Petch-Tyson
+        
+"
+"Book Review : 
+        COMPUTER-ASSISTED LANGUAGE LEARNING: CONTEXT AND CONCEPTUALIZATION
+        
+          Michael
+          Levy
+        
+"
+"Book Review : 
+        COMPUTERS IN APPLIED LINGUISTICS: AN INTERNATIONAL PERSPECTIVE
+        
+          Martha C.
+          Pennington
+        
+        
+          Vance
+          Stevens
+        
+"
+"Book Review : 
+        COMPUTERS, LANGUAGE LEARNING AND LANGUAGE TEACHING
+        
+          Khursid
+          Amad
+        
+        
+          Greville
+          Corbett
+        
+        
+          Margaret
+          Rogers
+        
+        
+          Roland
+          Sussex
+        
+"
+"Book Review : 
+        LANGUAGE LEARNING THROUGH SOCIAL COMPUTING: OCCASIONAL PAPERS OF THE APPLIED LINGUISTICS ASSOCIATION OF AUSTRALIA, 16
+        
+          Robert
+          Debski
+        
+        
+          June
+          Gassin
+        
+        
+          Mike
+          Smith
+        
+"
+"Book Review : 
+        LANGUAGE, LEARNERS AND COMPUTERS
+        
+          John
+          Higgins
+        
+"
+"Book Review : 
+        NEW DEVELOPMENTS IN COMPUTER-ASSISTED LANGUAGE LEARNING
+        
+          Douglas
+          Hainline
+        
+"
+"Book Review : 
+        STUDIES IN COMPUTER-AIDED LEXICOLOGY
+        
+          Martin
+          Gellerstam
+        
+"
+"Book Review : 
+        VYGOTSKY AND COGNITIVE SCIENCE: LANGUAGE AND THE UNIFICATION OF SOCIAL AND COMPUTATIONAL MIND
+        
+          William
+          Frawley
+        
+"
+COMPUTER-MEDIATED NEGOTIATED INTERACTION AND LEXICAL ACQUISITION
+LEARNER VERSUS NONLEARNER PATTERNS OF STYLISTIC VARIATION IN SYNCHRONOUS COMPUTER-MEDIATED FRENCH: Yes/No Questions and Nous Versus On
+On Call: Computer-Assisted Language Learning
+PRONUNCIATION IN FACE-TO-FACE AND AUDIO-ONLY SYNCHRONOUS COMPUTER-MEDIATED LEARNER INTERACTIONS
+SYNCHRONOUS COMPUTER-MEDIATED COMMUNICATION AND INTERACTION
+SYNTACTIC AND PROSODIC COMPUTATIONS IN THE RESOLUTION OF RELATIVE CLAUSE ATTACHMENT AMBIGUITY BY ENGLISH-FRENCH LEARNERS
+THE EFFECTS OF INDUCED ANXIETY ON THREE STAGES OF COGNITIVE PROCESSING IN COMPUTERIZED VOCABULARY LEARNING
+THE IMPACT OF RECASTS ON THE DEVELOPMENT OF PRIMARY STRESS IN A SYNCHRONOUS COMPUTER-MEDIATED ENVIRONMENT
+"The Computer, Hypertext, and Classical Studies"
+"A Writing Project Integrating Cultural Aspects, Computer Technology, and Writing Skills"
+Computer-room Demonstration at DLI: Teaching Korean Through Interactive Videodisc (IVD)/Computer
+Developing Content Materials for Computer-Assisted Study for Enhancing Listening Comprehension Skills in Korean
+To Participate or Not in an Intercultural Seminar Via Global Computer-Mediated Communication
+APLICACIONES DE LA COMPUTACIÓN A LA INVESTIGACIÓN LINGÜÍSTICA Y LITERARIA EN EL CELL
+"Book Review : 
+        Areal Analysis of Dialect Data by Computer. A Welsh Example
+        
+          Alan R.
+          Thomas
+        
+"
+"Book Review : 
+        Computatio Linguae II. Aufsätze zur algorithmischen und quantitativen Analyse der Sprache
+        
+          Ursula
+          Klenk
+        
+"
+"Book Review : 
+        Computatio Linguae. Aufsätze zur algorithmischen und quantitativen Analyse der Sprache
+        
+          Ursula
+          Klenk
+        
+"
+"Book Review : 
+        Computative Graphematik. Dokumentation eines Programmsystems zur schreibsprachlichen Analyse historischer Texte
+        
+          Gerhard
+          Koller
+        
+"
+"Book Review : 
+        Computerfibel für die Geisteswissenschaften. Einsatzmöglichkeiten des Personal Computers und Beispiele aus der Praxis
+        
+          Bernd
+          Gregor
+        
+        
+          Manfred
+          Krifka
+        
+"
+"Book Review : 
+        Computers in Translation. A Practical Appraisal
+        
+          John
+          Newton
+        
+"
+"Book Review : 
+        Computing and Language Variation. (International Journal of Humanities and Arts Computing. Volume 2)
+        
+          John
+          Nerbonne
+        
+        
+          Charlotte
+          Gooskens
+        
+        
+          Sebastian
+          Kürschner
+        
+        
+          Renée
+          van Bezooijen
+        
+"
+"Book Review : 
+        Historische Edition und Computer. Möglichkeiten und Probleme interdisziplinärer Textverarbeitung und Textbearbeitung. Berichte von der Internationalen Tagung ""Historische Edition und Computer"", Karl-Franzens-Universität Graz, 26.-30. October 1988
+        
+          Anton
+          Schwob
+        
+        
+          Karin
+          Kranich-Hofbauer
+        
+        
+          Diethard
+          Suntinger
+        
+"
+"Book Review : 
+        The Computer Developed Linguistic Atlas of England 1
+        
+          Wolfgang
+          Viereck
+        
+        
+          Heinrich
+          Ramisch
+        
+        
+          Harald
+          Händler
+        
+        
+          Petra
+          Hoffmann
+        
+"
+"Book Review : 
+        The Computer Developed Linguistic Atlas of England 2
+        
+          Wolf Gang
+          Viereck
+        
+        
+          Heinrich
+          Ramisch
+        
+        
+          Harald
+          Händler
+        
+        
+          Christian
+          Marx
+        
+        
+          Sheila
+          Embleton
+        
+"
+"Brauchen wir ein Neues Wörterbuchkartell? Zu den Perspektiven einer computerunterstützten Dialektlexikographie und eines Projekts ""Deutsches Dialektwörterbuch"""
+Corrigendum: Der Einsatz des Computers in der Amerikanischenglischen und Britisch-Englischen Dialektologie und Soziolinguistik
+Der Einsatz des Computers in der Amerikanischenglischen und Britisch-Englischen Dialektologie und Soziolinguistik
+GERTRUD REERSHEMIUS: NIEDERDEUTSCH IM INTERNET. MÖGLICHKEITEN UND GRENZEN COMPUTERVERMITTELTER KOMMUNIKATION FÜR DEN SPRACHERHALT
+"Konferenz über ""Computer Methods in Dialectology"", Athens, Georgia, U.S.A., 2.-4. März 1989"
+Strategien des Computereinsatzes in der nordamerikanischen Dialektologie am Ende der achtziger Jahre
+"International Conference on Computational Linguistics. Grenoble, 23. — 25. August 1967"
+LATIN AND OLD IRISH IN THE MUNICH COMPUTUS: A REASSESSMENT AND FURTHER EVIDENCE
+THE EARLY OLD IRISH MATERIAL IN THE NEWLY DISCOVERED COMPUTUS EINSIDLENSIS (C. AD 700)

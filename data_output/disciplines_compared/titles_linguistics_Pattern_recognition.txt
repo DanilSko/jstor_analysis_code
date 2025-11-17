@@ -1,0 +1,2 @@
+Perceptual Issues in Music Pattern Recognition: Complexity of Rhythm and Key Finding
+Aural Pattern Recognition Experiments and the Subregular Hierarchy
