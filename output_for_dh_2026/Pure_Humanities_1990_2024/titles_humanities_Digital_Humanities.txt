@@ -1,0 +1,82 @@
+Teaching and the Digital Humanities	2015	['History', 'Language & Literature']
+"Book Review : 
+        Digital Samaritans: Rhetorical Delivery and Engagement in the Digital Humanities
+        
+          Jim
+          Ridolfo
+        
+"	2016	['Folklore']
+A Bridge to Digital Humanities	2016	['Archaeology']
+Active Users: Project Development and Digital Humanities Pedagogy	2014	['Language & Literature']
+Digital Humanities Pedagogy: Hitting the Wall and Bouncing Back	2014	['Language & Literature']
+Doing a Lot with a Little: Making Digital Humanities Work at a Small College	2014	['Language & Literature']
+Estranging Anthology Texts of American Literature: Digital Humanities Resources for Harriet Beecher Stowe, Walt Whitman, and Emily Dickinson	2014	['Language & Literature']
+From Text to Tags: The Digital Humanities in an Introductory Literature Course	2014	['Language & Literature']
+Introducing Digital Humanities Pedagogy	2014	['Language & Literature']
+Listening in on the Conversations: An Overview of Digital Humanities Pedagogy	2014	['Language & Literature']
+Making the Leap: Incorporating Digital Humanities into the English Classroom	2014	['Language & Literature']
+Introduction: Media Studies and the Digital Humanities	2009	['Film Studies']
+CAN AN ALGORITHM BE DISTURBED? MACHINE LEARNING, INTRINSIC CRITICISM, AND THE DIGITAL HUMANITIES	2015	['Language & Literature']
+Digital Humanities and Its Application in the Study of Literature and Culture	2015	['Language & Literature']
+Digital Humanities Approach to Comparative Literature: Opportunities and Challenges	2020	['Language & Literature']
+Digital Humanities Approaches to Literary Translation	2020	['Language & Literature']
+Engaging the Humanities: The Digital Humanities	2009	['History', 'Language & Literature']
+Dance History and Digital Humanities Meet at the Archives	2020	['Performing Arts']
+Digital Samaritans: Rhetorical Delivery and Engagement in the Digital Humanities	2015	['Religion']
+Coreading <em>Middlemarch</em> in Pandemic Times: Using Digital Humanities to Build Community at a Distance	2021	['Language & Literature']
+Digital Humanities and the History of Philosophy: The Case of <em>Nietzsche's Moral Psychology</em>	2020	['Philosophy']
+Two and a Half Cheers for Digital Humanities: Responses to Bamford, Cristy, and Reginster	2020	['Philosophy']
+"Book Review : 
+        Debates in the Digital Humanities
+        
+          Matthew K.
+          Gold
+        
+"	2013	['Art & Art History']
+Book Review : DEBATES IN THE DIGITAL HUMANITIES 2016	2018	['Art & Art History']
+Visualizing Prosopography through Digital Humanities	2019	['Language & Literature', 'History']
+Latour, the Digital Humanities, and the Divided Kingdom of Knowledge	2016	['Language & Literature']
+Digital Humanities	2014	['Art & Art History']
+"Book Review : 
+        ORAL HISTORY AND DIGITAL HUMANITIES: VOICE, ACCESS AND ENGAGEMENT
+        
+          Douglas A
+          Boyd
+        
+        
+          Mary A
+          Larson
+        
+"	2016	['History']
+Data versus Literature? The Digital Humanities and Literary Studies	2016	['Language & Literature']
+Introduction: Assembling the Ecological Digital Humanities	2016	['Language & Literature']
+Resource Operations of the Ecological Digital Humanities	2016	['Language & Literature']
+The Digital Humanities, Inc.: Literary Criticism and the Fate of a Profession	2016	['Language & Literature']
+The Meaning of the Digital Humanities	2013	['Language & Literature']
+THE ANXIETY OF IRRELEVANCE: Digital Humanities and Contemporary Critical Theory	2013	['Language & Literature']
+Book Review : Digital Humanities and the Lost Drama of Early Modern England: Ten Case Studies	2017	['History', 'Art & Art History', 'Language & Literature']
+Book Review : Mapping Space, Sense, and Movement in Florence: Historical GIS and the Early Modern City. Routledge Research in Digital Humanities	2018	['History', 'Art & Art History', 'Language & Literature']
+Digital Humanities and Renaissance Studies in Canada: A Graduate Student's Perspective	2014	['Language & Literature']
+"Book Review : 
+        Interdisciplining Digital Humanities: Boundary Work in an Emerging Field
+        
+          Julie Thompson
+          Klein
+        
+"	2016	['Language & Literature']
+Humanities Computing and Digital Humanities	2008	['Language & Literature']
+"Book Review : 
+        William Blake and the Digital Humanities: Collaboration, Participation, and Social Media
+        
+          Roger
+          Whitson
+        
+        
+          Jason
+          Whittaker
+        
+"	2014	['Language & Literature']
+<em>Digital Yoknapatawpha</em> in the Context of the Digital Humanities	2015	['Language & Literature']
+Book Review : Scholarly Adventures in the Digital Humanities: Making the Modernist Archives Publishing Project	2018	['Language & Literature']
+Art History and the Digital Humanities	2016	['Art & Art History']
+"Kunstgeschichte und ""Digital Humanities"" Einladung zu einer Debatte / Art History and the Digital Humanities Invitation to a Debate"	2016	['Art & Art History']
