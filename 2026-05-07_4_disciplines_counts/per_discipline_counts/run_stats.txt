@@ -1,0 +1,22 @@
+Per-discipline CS-term count run statistics
+==================================================
+
+Total JSONL items processed:    1,049,373
+Items matched to a target:      309,602
+References stripped:            37,208 (12.0%)
+Elapsed:                        1914.6s
+
+Pre-pass metadata classification:
+  Total metadata rows:          1,049,401
+  Multi-discipline (skipped):   545,579
+  No usable year (skipped):     0
+  Language & Literature           220,739
+  Linguistics                       8,925
+  History                          53,038
+  Archaeology                      26,912
+
+Post-pass article totals (matched in JSONL):
+  Language & Literature      220,732   years 2000-2025
+  Linguistics                  8,924   years 2000-2024
+  History                     53,036   years 2000-2026
+  Archaeology                 26,910   years 2000-2025
